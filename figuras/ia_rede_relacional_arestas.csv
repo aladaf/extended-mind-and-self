@@ -1,0 +1,276 @@
+﻿tipo,verbo,atributo,n,neg,pessoas
+eu → IA,usar,,44,4,8
+eu → IA,ter,,31,3,8
+eu → IA,fazer,,11,0,5
+eu → IA,criar,,8,0,6
+eu → IA,achar,,8,0,4
+eu → IA,colocar,,7,2,5
+eu → IA,utilizar,,6,1,2
+eu → IA,saber,,5,0,4
+eu → IA,ver,,5,3,4
+eu → IA,gostar,,4,0,4
+eu → IA,ir,,4,0,4
+eu → IA,confiar,,4,0,2
+eu → IA,falar,,4,0,3
+eu → IA,trazer,,3,0,3
+eu → IA,botar,,3,0,2
+eu → IA,existir,,3,0,2
+eu → IA,ficar,,3,0,2
+eu → IA,escrever,,3,0,1
+eu → IA,desenvolver,,2,0,2
+eu → IA,sentir,,2,0,2
+eu → IA,pensar,,2,0,2
+eu → IA,jogar,,2,0,2
+eu → IA,ser,,2,1,2
+eu → IA,pegar,,2,0,2
+eu → IA,conhecer,,2,1,2
+eu → IA,construir,,2,0,2
+eu → IA,acabar,,2,0,2
+eu → IA,chegar,,2,2,1
+eu → IA,levar,,2,1,2
+eu → IA,ajudar,,2,0,1
+eu → IA,poder,,2,0,2
+eu → IA,dizer,,2,0,2
+eu → IA,gerar,,2,1,2
+eu → IA,uso,,2,0,1
+eu → IA,sair,,2,0,1
+eu → IA,assinar,,2,0,1
+eu → IA,abrir,,2,0,1
+eu → IA,agente,,1,0,1
+eu → IA,brincar,,1,0,1
+eu → IA,pensamento,,1,0,1
+eu → IA,conversacional,,1,0,1
+eu → IA,depender,,1,0,1
+eu → IA,boa,,1,0,1
+eu → IA,documentar,,1,0,1
+eu → IA,calibrar,,1,0,1
+eu → IA,nivelar,,1,0,1
+eu → IA,ia,,1,0,1
+eu → IA,dar,,1,0,1
+eu → IA,entregar,,1,0,1
+eu → IA,máquina,,1,0,1
+eu → IA,muito,,1,0,1
+eu → IA,passar,,1,0,1
+eu → IA,vir,,1,0,1
+eu → IA,aplicar,,1,0,1
+eu → IA,funcionar,,1,0,1
+eu → IA,mandar,,1,0,1
+eu → IA,disparar,,1,0,1
+eu → IA,indic,,1,0,1
+eu → IA,seguir,,1,0,1
+eu → IA,mudar,,1,0,1
+eu → IA,empresa,,1,0,1
+eu → IA,solução,,1,0,1
+eu → IA,domínio,,1,0,1
+eu → IA,pessoa,,1,0,1
+eu → IA,tô,,1,0,1
+eu → IA,avançar,,1,0,1
+eu → IA,adaptar,,1,0,1
+eu → IA,adiantar,,1,0,1
+eu → IA,satisfeito,,1,0,1
+eu → IA,tirar,,1,0,1
+eu → IA,gastar,,1,0,1
+eu → IA,cara,,1,0,1
+eu → IA,o,,1,0,1
+eu → IA,bom,,1,1,1
+eu → IA,trabalhar,,1,0,1
+eu → IA,esgotar,,1,0,1
+eu → IA,a-aí,,1,0,1
+eu → IA,surgir,,1,0,1
+eu → IA,trabalho,,1,0,1
+eu → IA,querer,,1,1,1
+eu → IA,meter,,1,0,1
+eu → IA,entrar,,1,0,1
+eu → IA,usuária,,1,0,1
+eu → IA,humanização,,1,0,1
+eu → IA,testar,,1,0,1
+eu → IA,aparecer,,1,0,1
+eu → IA,construção,,1,0,1
+eu → IA,quebrar,,1,0,1
+eu → IA,notar,,1,0,1
+eu → IA,perguntar,,1,0,1
+eu → IA,dinâmico,,1,0,1
+eu → IA,escravo,,1,0,1
+eu → IA,disponível,,1,1,1
+eu → IA,processo,,1,0,1
+eu → IA,substituir,,1,0,1
+eu → IA,conseguir,,1,1,1
+eu → IA,analisar,,1,0,1
+eu → IA,prumar,,1,0,1
+eu → IA,assistir,,1,0,1
+eu → IA,assumir,,1,0,1
+eu → IA,alterar,,1,0,1
+eu → IA,programar,,1,0,1
+eu → IA,implementar,,1,0,1
+eu → IA,coisa,,1,0,1
+eu → IA,ela,,1,0,1
+eu → IA (pra/pro),pedir,,15,0,4
+eu → IA (pra/pro),dar,,4,1,3
+eu → IA (pra/pro),perguntar,,4,0,2
+eu → IA (pra/pro),fazer,,3,0,2
+eu → IA (pra/pro),falar,,3,0,3
+eu → IA (pra/pro),poder,,2,0,2
+eu → IA (pra/pro),ter,,2,0,2
+eu → IA (pra/pro),voltar,,2,0,2
+eu → IA (pra/pro),mostrar,,2,0,2
+eu → IA (pra/pro),escrever,,1,0,1
+eu → IA (pra/pro),pegar,,1,0,1
+eu → IA (pra/pro),mandar,,1,0,1
+eu → IA (pra/pro),precisar,,1,0,1
+eu → IA (pra/pro),acordar,,1,0,1
+eu → IA (pra/pro),simples,,1,1,1
+eu → IA (pra/pro),colocar,,1,0,1
+eu → IA (pra/pro),lembrar,,1,0,1
+eu → IA (pra/pro),tentar,,1,0,1
+eu → IA (pra/pro),trocar,,1,0,1
+eu → IA (pra/pro),querer,,1,0,1
+eu com IA,conversar,,4,0,4
+eu com IA,construir,,1,0,1
+eu com IA,autoria,,1,0,1
+IA → eu,ajudar,,5,0,4
+IA → eu,trazer,,2,0,2
+IA → eu,guiar,,1,0,1
+IA → eu,dar,,1,0,1
+IA → eu,permitir,,1,0,1
+IA → eu,gerar,,1,0,1
+IA → eu,trabalhar,,1,0,1
+IA → eu,irritar,,1,0,1
+IA → eu,convencer,,1,0,1
+IA → eu,começar,,1,0,1
+IA → eu,gostar,,1,0,1
+IA → eu,perguntar,,1,0,1
+IA → eu,adaptar,,1,0,1
+IA → eu,usar,,1,0,1
+IA → eu,falar,,1,0,1
+IA age,fazer,,24,2,7
+IA age,ter,,13,1,6
+IA age,trazer,,11,0,5
+IA age,falar,,11,0,6
+IA age,dar,,10,0,4
+IA age,poder,,9,0,3
+IA age,conseguir,,7,4,5
+IA age,pegar,,6,0,5
+IA age,usar,,5,0,2
+IA age,saber,,5,1,4
+IA age,ficar,,4,0,3
+IA age,criar,,4,0,3
+IA age,achar,,4,0,2
+IA age,dizer,,4,0,3
+IA age,melhorar,,3,0,3
+IA age,chegar,,3,1,1
+IA age,vir,,2,0,2
+IA age,otimizar,,2,1,1
+IA age,acabar,,2,0,2
+IA age,entregar,,2,0,1
+IA age,apresentar,,2,0,2
+IA age,ajudar,,2,0,2
+IA age,trabalhar,,2,0,1
+IA age,entender,,2,0,2
+IA age,assumir,,2,0,2
+IA age,indicar,,2,0,1
+IA age,entrar,,2,1,2
+IA age,funcionar,,2,0,2
+IA age,escrever,,2,0,1
+IA age,embutir,,2,0,1
+IA age,cuspir,,1,0,1
+IA age,encaixar,,1,0,1
+IA age,atuar,,1,0,1
+IA age,treinar,,1,0,1
+IA age,o-onde,,1,0,1
+IA age,superar,,1,0,1
+IA age,sugerir,,1,0,1
+IA age,concordar,,1,1,1
+IA age,tirar,,1,0,1
+IA age,trou,,1,0,1
+IA age,revisar,,1,0,1
+IA age,ler,,1,0,1
+IA age,ver,,1,0,1
+IA age,gostar,,1,0,1
+IA age,repassar,,1,1,1
+IA age,garantir,,1,0,1
+IA age,permanecer,,1,0,1
+IA age,citar,,1,0,1
+IA age,cortar,,1,1,1
+IA age,mandar,,1,0,1
+IA age,substituir,,1,1,1
+IA age,direcionar,,1,0,1
+IA age,resolver,,1,0,1
+IA age,conhecer,,1,1,1
+IA age,responder,,1,0,1
+IA age,mudar,,1,0,1
+IA age,armazenar,,1,0,1
+IA age,demorar,,1,0,1
+IA age,aprender,,1,0,1
+IA age,precisar,,1,0,1
+IA age,diminuir,,1,0,1
+IA age,tornar,,1,1,1
+IA age,tomar,,1,1,1
+IA age,acertar,,1,1,1
+IA age,delegar,,1,0,1
+IA age,acometida,,1,1,1
+IA age,encadear,,1,0,1
+IA age,merecer,,1,0,1
+IA age,revolucionar,,1,0,1
+IA age,dever,,1,0,1
+IA age,querer,,1,0,1
+IA age,costumar,,1,0,1
+IA age,elenca,,1,0,1
+IA age,colocar,,1,0,1
+IA age,tender,,1,0,1
+IA age,ser,,1,0,1
+IA age,parecer,,1,0,1
+IA age,notar,,1,0,1
+IA age,morar,,1,0,1
+IA age,baixar,,1,0,1
+IA age,deixar,,1,0,1
+IA age,pautar,,1,0,1
+IA age,começar,,1,0,1
+IA age,permitir,,1,1,1
+IA age,liberar,,1,0,1
+IA age,olhar,,1,0,1
+IA age,virar,,1,0,1
+IA age,prever,,1,0,1
+IA age,sair,,1,0,1
+IA age,analisar,,1,0,1
+IA age,produzir,,1,0,1
+IA age,implementar,,1,0,1
+IA age,monitorar,,1,0,1
+IA é,ser,fácil,3,0,1
+IA é,ser,pessoa,2,1,2
+IA é,ser,ferramenta,2,0,2
+IA é,ser,maravilhoso,1,0,1
+IA é,ser,boa,1,0,1
+IA é,ser,lento,1,0,1
+IA é,ser,gigante,1,0,1
+IA é,ser,mu,1,0,1
+IA é,ser,cheio,1,0,1
+IA é,ser,programa,1,0,1
+IA é,ser,bom,1,0,1
+IA é,ser,dia,1,0,1
+IA é,ser,profissional,1,0,1
+IA é,ser,ali,1,0,1
+IA é,ser,mudar,1,0,1
+IA é,ser,estruturar,1,0,1
+IA é,ser,direto,1,0,1
+IA é,ser,um,1,0,1
+IA é,ser,mais,1,0,1
+IA é,ser,resposta,1,0,1
+IA é,ser,afinar,1,0,1
+IA é,ser,o,1,0,1
+IA é,ser,merda,1,0,1
+IA é,ser,fundo,1,0,1
+IA é,ser,capaz,1,1,1
+IA é,ser,autora,1,0,1
+IA é,ser,disponível,1,0,1
+IA é,ser,tipo,1,0,1
+IA é,ser,ia,1,0,1
+IA é,ser,ficar,1,0,1
+IA é,ser,reduzir,1,0,1
+IA é,ser,dinâmico,1,0,1
+IA é,ser,avançado,1,0,1
+IA é,ser,eq,1,1,1
+IA é,ser,trabalho,1,0,1
+IA é,ser,muito,1,0,1
+IA é,ser,co-autor,1,0,1
+IA é,ser,cara,1,0,1
+IA é,ser,ela,1,0,1

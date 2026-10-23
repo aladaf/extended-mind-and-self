@@ -1,0 +1,5186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-10-23">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="2" title="coocorrencias" type="long" />
+      <attribute id="3" title="jaccard" type="double" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="frequencia" type="long" />
+      <attribute id="1" title="comunidade" type="long" />
+    </attributes>
+    <nodes>
+      <node id="usar" label="usar">
+        <attvalues>
+          <attvalue for="0" value="421" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="IA" label="IA">
+        <attvalues>
+          <attvalue for="0" value="413" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="pessoa" label="pessoa">
+        <attvalues>
+          <attvalue for="0" value="215" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="dia" label="dia">
+        <attvalues>
+          <attvalue for="0" value="176" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="precisar" label="precisar">
+        <attvalues>
+          <attvalue for="0" value="126" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="trabalho" label="trabalho">
+        <attvalues>
+          <attvalue for="0" value="117" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="empresa" label="empresa">
+        <attvalues>
+          <attvalue for="0" value="103" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="querer" label="querer">
+        <attvalues>
+          <attvalue for="0" value="97" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="ferramenta" label="ferramenta">
+        <attvalues>
+          <attvalue for="0" value="80" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="criar" label="criar">
+        <attvalues>
+          <attvalue for="0" value="79" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="grande" label="grande">
+        <attvalues>
+          <attvalue for="0" value="78" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="colocar" label="colocar">
+        <attvalues>
+          <attvalue for="0" value="75" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="ChatGPT" label="ChatGPT">
+        <attvalues>
+          <attvalue for="0" value="72" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ajudar" label="ajudar">
+        <attvalues>
+          <attvalue for="0" value="65" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="trazer" label="trazer">
+        <attvalues>
+          <attvalue for="0" value="61" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="entender" label="entender">
+        <attvalues>
+          <attvalue for="0" value="58" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="tempo" label="tempo">
+        <attvalues>
+          <attvalue for="0" value="54" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="trabalhar" label="trabalhar">
+        <attvalues>
+          <attvalue for="0" value="54" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="texto" label="texto">
+        <attvalues>
+          <attvalue for="0" value="53" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="pensar" label="pensar">
+        <attvalues>
+          <attvalue for="0" value="53" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="tentar" label="tentar">
+        <attvalues>
+          <attvalue for="0" value="53" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="informação" label="informação">
+        <attvalues>
+          <attvalue for="0" value="51" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="mercado" label="mercado">
+        <attvalues>
+          <attvalue for="0" value="50" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="ideia" label="ideia">
+        <attvalues>
+          <attvalue for="0" value="49" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="pedir" label="pedir">
+        <attvalues>
+          <attvalue for="0" value="49" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="dado" label="dado">
+        <attvalues>
+          <attvalue for="0" value="49" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="pegar" label="pegar">
+        <attvalues>
+          <attvalue for="0" value="48" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="área" label="área">
+        <attvalues>
+          <attvalue for="0" value="47" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="gostar" label="gostar">
+        <attvalues>
+          <attvalue for="0" value="46" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="mundo" label="mundo">
+        <attvalues>
+          <attvalue for="0" value="45" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="entrar" label="entrar">
+        <attvalues>
+          <attvalue for="0" value="45" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="acontecer" label="acontecer">
+        <attvalues>
+          <attvalue for="0" value="41" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="botar" label="botar">
+        <attvalues>
+          <attvalue for="0" value="41" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="agente" label="agente">
+        <attvalues>
+          <attvalue for="0" value="40" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="novo" label="novo">
+        <attvalues>
+          <attvalue for="0" value="40" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="equipe" label="equipe">
+        <attvalues>
+          <attvalue for="0" value="40" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="chegar" label="chegar">
+        <attvalues>
+          <attvalue for="0" value="38" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="produto" label="produto">
+        <attvalues>
+          <attvalue for="0" value="37" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="resultado" label="resultado">
+        <attvalues>
+          <attvalue for="0" value="36" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="profissional" label="profissional">
+        <attvalues>
+          <attvalue for="0" value="35" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="resposta" label="resposta">
+        <attvalues>
+          <attvalue for="0" value="35" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="prompt" label="prompt">
+        <attvalues>
+          <attvalue for="0" value="35" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="escrever" label="escrever">
+        <attvalues>
+          <attvalue for="0" value="34" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="pessoal" label="pessoal">
+        <attvalues>
+          <attvalue for="0" value="34" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="perguntar" label="perguntar">
+        <attvalues>
+          <attvalue for="0" value="34" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="análise" label="análise">
+        <attvalues>
+          <attvalue for="0" value="34" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="imagem" label="imagem">
+        <attvalues>
+          <attvalue for="0" value="33" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="negócio" label="negócio">
+        <attvalues>
+          <attvalue for="0" value="33" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="mandar" label="mandar">
+        <attvalues>
+          <attvalue for="0" value="32" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="testar" label="testar">
+        <attvalues>
+          <attvalue for="0" value="32" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="usar" target="entender" id="0" weight="0.0262">
+        <attvalues>
+          <attvalue for="2" value="10" />
+          <attvalue for="3" value="0.0262" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="ChatGPT" id="1" weight="0.0521">
+        <attvalues>
+          <attvalue for="2" value="20" />
+          <attvalue for="3" value="0.0521" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="escrever" id="2" weight="0.0164">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0164" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="gostar" id="3" weight="0.0213">
+        <attvalues>
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="0.0213" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="resultado" id="4" weight="0.0217">
+        <attvalues>
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="0.0217" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="trazer" id="5" weight="0.0128">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0128" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="IA" id="6" weight="0.1675">
+        <attvalues>
+          <attvalue for="2" value="101" />
+          <attvalue for="3" value="0.1675" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="trabalho" id="7" weight="0.0524">
+        <attvalues>
+          <attvalue for="2" value="22" />
+          <attvalue for="3" value="0.0524" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="ideia" id="8" weight="0.0238">
+        <attvalues>
+          <attvalue for="2" value="9" />
+          <attvalue for="3" value="0.0238" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="ferramenta" id="9" weight="0.0781">
+        <attvalues>
+          <attvalue for="2" value="30" />
+          <attvalue for="3" value="0.0781" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="mundo" id="10" weight="0.0378">
+        <attvalues>
+          <attvalue for="2" value="14" />
+          <attvalue for="3" value="0.0378" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="criar" id="11" weight="0.0248">
+        <attvalues>
+          <attvalue for="2" value="10" />
+          <attvalue for="3" value="0.0248" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="precisar" id="12" weight="0.0434">
+        <attvalues>
+          <attvalue for="2" value="19" />
+          <attvalue for="3" value="0.0434" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="área" id="13" weight="0.0413">
+        <attvalues>
+          <attvalue for="2" value="15" />
+          <attvalue for="3" value="0.0413" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="dado" id="14" weight="0.0323">
+        <attvalues>
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="0.0323" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="empresa" id="15" weight="0.0314">
+        <attvalues>
+          <attvalue for="2" value="13" />
+          <attvalue for="3" value="0.0314" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="grande" id="16" weight="0.0246">
+        <attvalues>
+          <attvalue for="2" value="10" />
+          <attvalue for="3" value="0.0246" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="mandar" id="17" weight="0.011">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.011" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="texto" id="18" weight="0.0211">
+        <attvalues>
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="0.0211" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="tempo" id="19" weight="0.0341">
+        <attvalues>
+          <attvalue for="2" value="13" />
+          <attvalue for="3" value="0.0341" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="colocar" id="20" weight="0.0331">
+        <attvalues>
+          <attvalue for="2" value="13" />
+          <attvalue for="3" value="0.0331" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="testar" id="21" weight="0.0055">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0055" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="informação" id="22" weight="0.0133">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0133" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="querer" id="23" weight="0.0287">
+        <attvalues>
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="0.0287" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="pessoa" id="24" weight="0.1025">
+        <attvalues>
+          <attvalue for="2" value="49" />
+          <attvalue for="3" value="0.1025" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="tentar" id="25" weight="0.0131">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0131" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="novo" id="26" weight="0.019">
+        <attvalues>
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="0.019" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="pessoal" id="27" weight="0.0306">
+        <attvalues>
+          <attvalue for="2" value="11" />
+          <attvalue for="3" value="0.0306" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="dia" id="28" weight="0.0596">
+        <attvalues>
+          <attvalue for="2" value="26" />
+          <attvalue for="3" value="0.0596" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="ajudar" id="29" weight="0.0391">
+        <attvalues>
+          <attvalue for="2" value="15" />
+          <attvalue for="3" value="0.0391" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="pensar" id="30" weight="0.0237">
+        <attvalues>
+          <attvalue for="2" value="9" />
+          <attvalue for="3" value="0.0237" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="profissional" id="31" weight="0.0163">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0163" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="perguntar" id="32" weight="0.0054">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0054" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="prompt" id="33" weight="0.0193">
+        <attvalues>
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="0.0193" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="acontecer" id="34" weight="0.0027">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0027" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="equipe" id="35" weight="0.0108">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0108" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="negócio" id="36" weight="0.0027">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0027" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="trabalhar" id="37" weight="0.0078">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0078" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="entrar" id="38" weight="0.0187">
+        <attvalues>
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="0.0187" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="pedir" id="39" weight="0.0106">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0106" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="agente" id="40" weight="0.0108">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0108" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="resposta" id="41" weight="0.0136">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0136" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="pegar" id="42" weight="0.0052">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0052" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="mercado" id="43" weight="0.0188">
+        <attvalues>
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="0.0188" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="produto" id="44" weight="0.0108">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0108" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="análise" id="45" weight="0.0136">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0136" />
+        </attvalues>
+      </edge>
+      <edge source="usar" target="imagem" id="46" weight="0.0082">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0082" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="trabalho" id="47" weight="0.0543">
+        <attvalues>
+          <attvalue for="2" value="24" />
+          <attvalue for="3" value="0.0543" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="ferramenta" id="48" weight="0.058">
+        <attvalues>
+          <attvalue for="2" value="24" />
+          <attvalue for="3" value="0.058" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="ChatGPT" id="49" weight="0.0142">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0142" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="resposta" id="50" weight="0.0153">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0153" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="trazer" id="51" weight="0.0473">
+        <attvalues>
+          <attvalue for="2" value="19" />
+          <attvalue for="3" value="0.0473" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="tempo" id="52" weight="0.0296">
+        <attvalues>
+          <attvalue for="2" value="12" />
+          <attvalue for="3" value="0.0296" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="área" id="53" weight="0.0255">
+        <attvalues>
+          <attvalue for="2" value="10" />
+          <attvalue for="3" value="0.0255" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="dado" id="54" weight="0.0201">
+        <attvalues>
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="0.0201" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="empresa" id="55" weight="0.0416">
+        <attvalues>
+          <attvalue for="2" value="18" />
+          <attvalue for="3" value="0.0416" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="dia" id="56" weight="0.0474">
+        <attvalues>
+          <attvalue for="2" value="22" />
+          <attvalue for="3" value="0.0474" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="criar" id="57" weight="0.0453">
+        <attvalues>
+          <attvalue for="2" value="19" />
+          <attvalue for="3" value="0.0453" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="texto" id="58" weight="0.0353">
+        <attvalues>
+          <attvalue for="2" value="14" />
+          <attvalue for="3" value="0.0353" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="colocar" id="59" weight="0.0386">
+        <attvalues>
+          <attvalue for="2" value="16" />
+          <attvalue for="3" value="0.0386" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="pedir" id="60" weight="0.041">
+        <attvalues>
+          <attvalue for="2" value="16" />
+          <attvalue for="3" value="0.041" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="ajudar" id="61" weight="0.0444">
+        <attvalues>
+          <attvalue for="2" value="18" />
+          <attvalue for="3" value="0.0444" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="pegar" id="62" weight="0.0098">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0098" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="mandar" id="63" weight="0.0103">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0103" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="escrever" id="64" weight="0.0128">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0128" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="gostar" id="65" weight="0.0149">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0149" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="testar" id="66" weight="0.0077">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0077" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="análise" id="67" weight="0.0233">
+        <attvalues>
+          <attvalue for="2" value="9" />
+          <attvalue for="3" value="0.0233" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="precisar" id="68" weight="0.0411">
+        <attvalues>
+          <attvalue for="2" value="19" />
+          <attvalue for="3" value="0.0411" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="pensar" id="69" weight="0.0098">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0098" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="resultado" id="70" weight="0.0127">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0127" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="pessoa" id="71" weight="0.0762">
+        <attvalues>
+          <attvalue for="2" value="39" />
+          <attvalue for="3" value="0.0762" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="ideia" id="72" weight="0.0275">
+        <attvalues>
+          <attvalue for="2" value="11" />
+          <attvalue for="3" value="0.0275" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="prompt" id="73" weight="0.0129">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0129" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="imagem" id="74" weight="0.0181">
+        <attvalues>
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="0.0181" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="informação" id="75" weight="0.0227">
+        <attvalues>
+          <attvalue for="2" value="9" />
+          <attvalue for="3" value="0.0227" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="querer" id="76" weight="0.0179">
+        <attvalues>
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="0.0179" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="tentar" id="77" weight="0.0123">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0123" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="grande" id="78" weight="0.0232">
+        <attvalues>
+          <attvalue for="2" value="10" />
+          <attvalue for="3" value="0.0232" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="novo" id="79" weight="0.0204">
+        <attvalues>
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="0.0204" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="pessoal" id="80" weight="0.0128">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0128" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="profissional" id="81" weight="0.0179">
+        <attvalues>
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="0.0179" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="negócio" id="82" weight="0.0153">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0153" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="equipe" id="83" weight="0.0205">
+        <attvalues>
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="0.0205" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="mundo" id="84" weight="0.02">
+        <attvalues>
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="0.02" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="entender" id="85" weight="0.0272">
+        <attvalues>
+          <attvalue for="2" value="11" />
+          <attvalue for="3" value="0.0272" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="agente" id="86" weight="0.0205">
+        <attvalues>
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="0.0205" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="trabalhar" id="87" weight="0.0275">
+        <attvalues>
+          <attvalue for="2" value="11" />
+          <attvalue for="3" value="0.0275" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="perguntar" id="88" weight="0.0103">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0103" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="chegar" id="89" weight="0.0076">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0076" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="acontecer" id="90" weight="0.0075">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0075" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="entrar" id="91" weight="0.01">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.01" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="mercado" id="92" weight="0.0177">
+        <attvalues>
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="0.0177" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="produto" id="93" weight="0.0025">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0025" />
+        </attvalues>
+      </edge>
+      <edge source="IA" target="botar" id="94" weight="0.0076">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0076" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="mundo" id="95" weight="0.0267">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0267" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="entender" id="96" weight="0.0303">
+        <attvalues>
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="0.0303" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="resultado" id="97" weight="0.0183">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0183" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="tempo" id="98" weight="0.0433">
+        <attvalues>
+          <attvalue for="2" value="10" />
+          <attvalue for="3" value="0.0433" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="botar" id="99" weight="0.0229">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0229" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="testar" id="100" weight="0.0142">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0142" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="querer" id="101" weight="0.0336">
+        <attvalues>
+          <attvalue for="2" value="9" />
+          <attvalue for="3" value="0.0336" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="dado" id="102" weight="0.0132">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0132" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="gostar" id="103" weight="0.0132">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0132" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="tentar" id="104" weight="0.0174">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0174" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="criar" id="105" weight="0.0357">
+        <attvalues>
+          <attvalue for="2" value="9" />
+          <attvalue for="3" value="0.0357" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="trazer" id="106" weight="0.0383">
+        <attvalues>
+          <attvalue for="2" value="9" />
+          <attvalue for="3" value="0.0383" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="texto" id="107" weight="0.0174">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0174" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="ajudar" id="108" weight="0.025">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.025" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="colocar" id="109" weight="0.0285">
+        <attvalues>
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="0.0285" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="escrever" id="110" weight="0.0187">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0187" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="trabalhar" id="111" weight="0.0354">
+        <attvalues>
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="0.0354" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="dia" id="112" weight="0.0198">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0198" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="grande" id="113" weight="0.0312">
+        <attvalues>
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="0.0312" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="pensar" id="114" weight="0.0173">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0173" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="trabalho" id="115" weight="0.0358">
+        <attvalues>
+          <attvalue for="2" value="10" />
+          <attvalue for="3" value="0.0358" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="ferramenta" id="116" weight="0.0357">
+        <attvalues>
+          <attvalue for="2" value="9" />
+          <attvalue for="3" value="0.0357" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="prompt" id="117" weight="0.0284">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0284" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="equipe" id="118" weight="0.0279">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0279" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="precisar" id="119" weight="0.0375">
+        <attvalues>
+          <attvalue for="2" value="11" />
+          <attvalue for="3" value="0.0375" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="negócio" id="120" weight="0.0092">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0092" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="informação" id="121" weight="0.0269">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0269" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="ideia" id="122" weight="0.0043">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0043" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="área" id="123" weight="0.0135">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0135" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="profissional" id="124" weight="0.0138">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0138" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="novo" id="125" weight="0.0136">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0136" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="mandar" id="126" weight="0.0142">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0142" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="pedir" id="127" weight="0.0088">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0088" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="entrar" id="128" weight="0.0088">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0088" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="ChatGPT" id="129" weight="0.0121">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0121" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="empresa" id="130" weight="0.0538">
+        <attvalues>
+          <attvalue for="2" value="14" />
+          <attvalue for="3" value="0.0538" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="pessoal" id="131" weight="0.0093">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0093" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="agente" id="132" weight="0.0137">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0137" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="perguntar" id="133" weight="0.0141">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0141" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="resposta" id="134" weight="0.0092">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0092" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="pegar" id="135" weight="0.0043">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0043" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="mercado" id="136" weight="0.0226">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0226" />
+        </attvalues>
+      </edge>
+      <edge source="pessoa" target="imagem" id="137" weight="0.0046">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0046" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="profissional" id="138" weight="0.0265">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0265" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="pessoal" id="139" weight="0.0132">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0132" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="resposta" id="140" weight="0.0333">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0333" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="trabalho" id="141" weight="0.0467">
+        <attvalues>
+          <attvalue for="2" value="10" />
+          <attvalue for="3" value="0.0467" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="ferramenta" id="142" weight="0.0155">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0155" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="resultado" id="143" weight="0.0128">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0128" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="empresa" id="144" weight="0.0146">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0146" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="ideia" id="145" weight="0.012">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.012" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="precisar" id="146" weight="0.0214">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0214" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="prompt" id="147" weight="0.027">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.027" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="criar" id="148" weight="0.0208">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0208" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="pedir" id="149" weight="0.0186">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0186" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="entrar" id="150" weight="0.0186">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0186" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="mercado" id="151" weight="0.019">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.019" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="querer" id="152" weight="0.0144">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0144" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="tentar" id="153" weight="0.0305">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0305" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="testar" id="154" weight="0.0135">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0135" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="mundo" id="155" weight="0.0247">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0247" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="ajudar" id="156" weight="0.0462">
+        <attvalues>
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="0.0462" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="tempo" id="157" weight="0.0115">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0115" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="texto" id="158" weight="0.012">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.012" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="grande" id="159" weight="0.0153">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0153" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="pensar" id="160" weight="0.0429">
+        <attvalues>
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="0.0429" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="informação" id="161" weight="0.0314">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0314" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="novo" id="162" weight="0.0395">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0395" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="entender" id="163" weight="0.0117">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0117" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="ChatGPT" id="164" weight="0.0054">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0054" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="pegar" id="165" weight="0.006">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.006" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="chegar" id="166" weight="0.0397">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0397" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="gostar" id="167" weight="0.0184">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0184" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="trabalhar" id="168" weight="0.0181">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0181" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="agente" id="169" weight="0.0064">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0064" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="área" id="170" weight="0.0063">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0063" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="trazer" id="171" weight="0.017">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.017" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="perguntar" id="172" weight="0.0067">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0067" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="mandar" id="173" weight="0.0274">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0274" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="escrever" id="174" weight="0.0132">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0132" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="acontecer" id="175" weight="0.0063">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0063" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="colocar" id="176" weight="0.0053">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0053" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="imagem" id="177" weight="0.0066">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0066" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="análise" id="178" weight="0.0132">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0132" />
+        </attvalues>
+      </edge>
+      <edge source="dia" target="negócio" id="179" weight="0.0065">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0065" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="trabalho" id="180" weight="0.0379">
+        <attvalues>
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="0.0379" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="entender" id="181" weight="0.037">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.037" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="colocar" id="182" weight="0.0223">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0223" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="criar" id="183" weight="0.0106">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0106" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="dado" id="184" weight="0.0323">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0323" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="análise" id="185" weight="0.0136">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0136" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="grande" id="186" weight="0.0319">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0319" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="prompt" id="187" weight="0.028">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.028" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="ideia" id="188" weight="0.025">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.025" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="botar" id="189" weight="0.02">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.02" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="testar" id="190" weight="0.0211">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0211" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="querer" id="191" weight="0.0197">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0197" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="informação" id="192" weight="0.0325">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0325" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="profissional" id="193" weight="0.0204">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0204" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="pessoal" id="194" weight="0.0207">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0207" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="tempo" id="195" weight="0.0301">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0301" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="gostar" id="196" weight="0.0126">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0126" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="pensar" id="197" weight="0.0185">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0185" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="ajudar" id="198" weight="0.0353">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0353" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="escrever" id="199" weight="0.0278">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0278" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="negócio" id="200" weight="0.0204">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0204" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="pegar" id="201" weight="0.0186">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0186" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="acontecer" id="202" weight="0.0065">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0065" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="equipe" id="203" weight="0.0203">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0203" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="trazer" id="204" weight="0.0357">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0357" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="ferramenta" id="205" weight="0.0214">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0214" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="resultado" id="206" weight="0.0066">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0066" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="área" id="207" weight="0.0065">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0065" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="mandar" id="208" weight="0.0069">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0069" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="trabalhar" id="209" weight="0.0446">
+        <attvalues>
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="0.0446" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="agente" id="210" weight="0.0201">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0201" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="perguntar" id="211" weight="0.0139">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0139" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="chegar" id="212" weight="0.0201">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0201" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="empresa" id="213" weight="0.02">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.02" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="mercado" id="214" weight="0.0196">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0196" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="resposta" id="215" weight="0.0204">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0204" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="ChatGPT" id="216" weight="0.0056">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0056" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="pedir" id="217" weight="0.0063">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0063" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="imagem" id="218" weight="0.0138">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0138" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="texto" id="219" weight="0.0061">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0061" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="produto" id="220" weight="0.0133">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0133" />
+        </attvalues>
+      </edge>
+      <edge source="precisar" target="mundo" id="221" weight="0.0063">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0063" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="escrever" id="222" weight="0.0076">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0076" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="ferramenta" id="223" weight="0.0173">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0173" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="colocar" id="224" weight="0.0182">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0182" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="pegar" id="225" weight="0.0136">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0136" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="querer" id="226" weight="0.0159">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0159" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="entrar" id="227" weight="0.0286">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0286" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="mercado" id="228" weight="0.0444">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0444" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="tentar" id="229" weight="0.0136">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0136" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="testar" id="230" weight="0.0078">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0078" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="profissional" id="231" weight="0.0075">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0075" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="grande" id="232" weight="0.0229">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0229" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="criar" id="233" weight="0.0292">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0292" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="pensar" id="234" weight="0.0204">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0204" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="tempo" id="235" weight="0.0263">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0263" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="imagem" id="236" weight="0.0076">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0076" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="mundo" id="237" weight="0.021">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.021" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="equipe" id="238" weight="0.0226">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0226" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="prompt" id="239" weight="0.0076">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0076" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="informação" id="240" weight="0.0141">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0141" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="texto" id="241" weight="0.0136">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0136" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="ideia" id="242" weight="0.0205">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0205" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="trabalhar" id="243" weight="0.0276">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0276" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="pessoal" id="244" weight="0.0153">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0153" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="entender" id="245" weight="0.02">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.02" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="ajudar" id="246" weight="0.0063">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0063" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="novo" id="247" weight="0.0147">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0147" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="botar" id="248" weight="0.0299">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0299" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="mandar" id="249" weight="0.0236">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0236" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="pedir" id="250" weight="0.0141">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0141" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="chegar" id="251" weight="0.0074">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0074" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="empresa" id="252" weight="0.0053">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0053" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="gostar" id="253" weight="0.0139">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0139" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="agente" id="254" weight="0.0074">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0074" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="área" id="255" weight="0.0072">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0072" />
+        </attvalues>
+      </edge>
+      <edge source="trabalho" target="acontecer" id="256" weight="0.0072">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0072" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="trabalhar" id="257" weight="0.0635">
+        <attvalues>
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="0.0635" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="dado" id="258" weight="0.04">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.04" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="produto" id="259" weight="0.0083">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0083" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="informação" id="260" weight="0.0238">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0238" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="querer" id="261" weight="0.0114">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0114" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="grande" id="262" weight="0.0513">
+        <attvalues>
+          <attvalue for="2" value="8" />
+          <attvalue for="3" value="0.0513" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="área" id="263" weight="0.0163">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0163" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="mundo" id="264" weight="0.0155">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0155" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="pessoal" id="265" weight="0.0085">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0085" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="chegar" id="266" weight="0.0252">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0252" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="gostar" id="267" weight="0.0077">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0077" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="trazer" id="268" weight="0.0141">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0141" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="mercado" id="269" weight="0.05">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.05" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="pensar" id="270" weight="0.0075">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0075" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="novo" id="271" weight="0.025">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.025" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="tempo" id="272" weight="0.0144">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0144" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="ajudar" id="273" weight="0.021">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.021" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="criar" id="274" weight="0.0126">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0126" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="ferramenta" id="275" weight="0.019">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.019" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="tentar" id="276" weight="0.0075">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0075" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="colocar" id="277" weight="0.02">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.02" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="ideia" id="278" weight="0.0075">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0075" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="pedir" id="279" weight="0.0078">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0078" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="análise" id="280" weight="0.0259">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0259" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="acontecer" id="281" weight="0.0081">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0081" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="equipe" id="282" weight="0.0254">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0254" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="botar" id="283" weight="0.0082">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0082" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="agente" id="284" weight="0.0083">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0083" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="pegar" id="285" weight="0.0075">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0075" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="entrar" id="286" weight="0.0238">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0238" />
+        </attvalues>
+      </edge>
+      <edge source="empresa" target="resultado" id="287" weight="0.0082">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0082" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="pedir" id="288" weight="0.0394">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0394" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="ideia" id="289" weight="0.0301">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0301" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="colocar" id="290" weight="0.0263">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0263" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="pegar" id="291" weight="0.0301">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0301" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="informação" id="292" weight="0.0394">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0394" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="criar" id="293" weight="0.025">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.025" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="resultado" id="294" weight="0.008">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.008" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="entrar" id="295" weight="0.0154">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0154" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="mercado" id="296" weight="0.0157">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0157" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="tentar" id="297" weight="0.0148">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0148" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="testar" id="298" weight="0.0085">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0085" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="mandar" id="299" weight="0.0172">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0172" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="tempo" id="300" weight="0.0141">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0141" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="ajudar" id="301" weight="0.0136">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0136" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="escrever" id="302" weight="0.0254">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0254" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="texto" id="303" weight="0.0224">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0224" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="gostar" id="304" weight="0.0152">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0152" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="negócio" id="305" weight="0.025">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.025" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="área" id="306" weight="0.0079">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0079" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="dado" id="307" weight="0.0153">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0153" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="ferramenta" id="308" weight="0.0186">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0186" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="prompt" id="309" weight="0.0169">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0169" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="chegar" id="310" weight="0.0081">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0081" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="entender" id="311" weight="0.0071">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0071" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="perguntar" id="312" weight="0.0085">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0085" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="pensar" id="313" weight="0.0147">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0147" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="equipe" id="314" weight="0.0164">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0164" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="ChatGPT" id="315" weight="0.0199">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0199" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="acontecer" id="316" weight="0.0079">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0079" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="trazer" id="317" weight="0.0068">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0068" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="botar" id="318" weight="0.008">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.008" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="produto" id="319" weight="0.0246">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0246" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="imagem" id="320" weight="0.0084">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0084" />
+        </attvalues>
+      </edge>
+      <edge source="querer" target="grande" id="321" weight="0.006">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.006" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="profissional" id="322" weight="0.0094">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0094" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="resultado" id="323" weight="0.0092">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0092" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="imagem" id="324" weight="0.04">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.04" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="dado" id="325" weight="0.0354">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0354" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="pensar" id="326" weight="0.0083">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0083" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="novo" id="327" weight="0.0185">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0185" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="texto" id="328" weight="0.0168">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0168" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="ajudar" id="329" weight="0.031">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.031" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="testar" id="330" weight="0.0099">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0099" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="colocar" id="331" weight="0.0219">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0219" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="prompt" id="332" weight="0.0196">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0196" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="pessoal" id="333" weight="0.0194">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0194" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="informação" id="334" weight="0.0175">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0175" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="ideia" id="335" weight="0.0083">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0083" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="trazer" id="336" weight="0.0234">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0234" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="tentar" id="337" weight="0.0083">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0083" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="criar" id="338" weight="0.0137">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0137" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="perguntar" id="339" weight="0.0098">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0098" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="escrever" id="340" weight="0.0096">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0096" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="tempo" id="341" weight="0.0079">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0079" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="análise" id="342" weight="0.0392">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0392" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="grande" id="343" weight="0.0203">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0203" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="pedir" id="344" weight="0.0087">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0087" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="entender" id="345" weight="0.0163">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0163" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="gostar" id="346" weight="0.0085">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0085" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="produto" id="347" weight="0.0187">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0187" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="mercado" id="348" weight="0.0463">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0463" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="área" id="349" weight="0.0275">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0275" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="trabalhar" id="350" weight="0.0083">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0083" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="agente" id="351" weight="0.0093">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0093" />
+        </attvalues>
+      </edge>
+      <edge source="ferramenta" target="negócio" id="352" weight="0.0094">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0094" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="agente" id="353" weight="0.0583">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0583" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="novo" id="354" weight="0.0476">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0476" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="produto" id="355" weight="0.0187">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0187" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="pedir" id="356" weight="0.0545">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0545" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="ajudar" id="357" weight="0.0231">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0231" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="tempo" id="358" weight="0.0492">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0492" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="imagem" id="359" weight="0.04">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.04" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="resultado" id="360" weight="0.0377">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0377" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="trazer" id="361" weight="0.0155">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0155" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="mundo" id="362" weight="0.0261">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0261" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="pegar" id="363" weight="0.0522">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0522" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="pessoal" id="364" weight="0.0096">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0096" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="grande" id="365" weight="0.0272">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0272" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="pensar" id="366" weight="0.0427">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0427" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="mandar" id="367" weight="0.02">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.02" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="gostar" id="368" weight="0.0085">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0085" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="informação" id="369" weight="0.0357">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0357" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="texto" id="370" weight="0.0254">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0254" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="ideia" id="371" weight="0.0254">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0254" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="resposta" id="372" weight="0.019">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.019" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="dado" id="373" weight="0.0263">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0263" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="entender" id="374" weight="0.0331">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0331" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="escrever" id="375" weight="0.0194">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0194" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="equipe" id="376" weight="0.0093">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0093" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="perguntar" id="377" weight="0.0098">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0098" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="colocar" id="378" weight="0.0145">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0145" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="trabalhar" id="379" weight="0.0083">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0083" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="prompt" id="380" weight="0.0097">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0097" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="análise" id="381" weight="0.0095">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0095" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="chegar" id="382" weight="0.0093">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0093" />
+        </attvalues>
+      </edge>
+      <edge source="criar" target="mercado" id="383" weight="0.0089">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0089" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="produto" id="384" weight="0.009">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.009" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="ChatGPT" id="385" weight="0.0144">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0144" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="acontecer" id="386" weight="0.0177">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0177" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="mundo" id="387" weight="0.0254">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0254" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="tempo" id="388" weight="0.0315">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0315" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="dado" id="389" weight="0.0256">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0256" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="informação" id="390" weight="0.0171">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0171" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="novo" id="391" weight="0.0089">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0089" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="pessoal" id="392" weight="0.0093">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0093" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="pensar" id="393" weight="0.0331">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0331" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="pegar" id="394" weight="0.0164">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0164" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="colocar" id="395" weight="0.0214">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0214" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="tentar" id="396" weight="0.0164">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0164" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="negócio" id="397" weight="0.0092">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0092" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="trabalhar" id="398" weight="0.0333">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0333" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="entrar" id="399" weight="0.0439">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0439" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="testar" id="400" weight="0.0096">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0096" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="ajudar" id="401" weight="0.0149">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0149" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="entender" id="402" weight="0.0079">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0079" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="trazer" id="403" weight="0.0229">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0229" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="mandar" id="404" weight="0.0096">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0096" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="prompt" id="405" weight="0.0094">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0094" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="resultado" id="406" weight="0.0273">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0273" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="análise" id="407" weight="0.0381">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0381" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="pedir" id="408" weight="0.0085">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0085" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="equipe" id="409" weight="0.0183">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0183" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="imagem" id="410" weight="0.0094">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0094" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="agente" id="411" weight="0.0182">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0182" />
+        </attvalues>
+      </edge>
+      <edge source="grande" target="chegar" id="412" weight="0.009">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.009" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="ChatGPT" id="413" weight="0.0156">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0156" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="pedir" id="414" weight="0.0588">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0588" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="trazer" id="415" weight="0.0603">
+        <attvalues>
+          <attvalue for="2" value="7" />
+          <attvalue for="3" value="0.0603" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="pensar" id="416" weight="0.0088">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0088" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="resultado" id="417" weight="0.02">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.02" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="prompt" id="418" weight="0.0213">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0213" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="gostar" id="419" weight="0.0092">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0092" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="testar" id="420" weight="0.0217">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0217" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="informação" id="421" weight="0.0485">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0485" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="pegar" id="422" weight="0.0367">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0367" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="análise" id="423" weight="0.0316">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0316" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="dado" id="424" weight="0.0093">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0093" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="ajudar" id="425" weight="0.0331">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0331" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="escrever" id="426" weight="0.0211">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0211" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="perguntar" id="427" weight="0.0106">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0106" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="tempo" id="428" weight="0.0169">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0169" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="tentar" id="429" weight="0.018">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.018" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="ideia" id="430" weight="0.0463">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0463" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="equipe" id="431" weight="0.0309">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0309" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="negócio" id="432" weight="0.0102">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0102" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="trabalhar" id="433" weight="0.0089">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0089" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="agente" id="434" weight="0.0412">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0412" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="entrar" id="435" weight="0.0189">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0189" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="novo" id="436" weight="0.02">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.02" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="acontecer" id="437" weight="0.0097">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0097" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="entender" id="438" weight="0.0086">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0086" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="imagem" id="439" weight="0.0105">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0105" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="produto" id="440" weight="0.0202">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0202" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="área" id="441" weight="0.0097">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0097" />
+        </attvalues>
+      </edge>
+      <edge source="colocar" target="pessoal" id="442" weight="0.0104">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0104" />
+        </attvalues>
+      </edge>
+      <edge source="ChatGPT" target="escrever" id="443" weight="0.044">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.044" />
+        </attvalues>
+      </edge>
+      <edge source="ChatGPT" target="gostar" id="444" weight="0.0189">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0189" />
+        </attvalues>
+      </edge>
+      <edge source="ChatGPT" target="resultado" id="445" weight="0.0101">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0101" />
+        </attvalues>
+      </edge>
+      <edge source="ChatGPT" target="trazer" id="446" weight="0.0083">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0083" />
+        </attvalues>
+      </edge>
+      <edge source="ChatGPT" target="ideia" id="447" weight="0.0091">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0091" />
+        </attvalues>
+      </edge>
+      <edge source="ChatGPT" target="pegar" id="448" weight="0.0374">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0374" />
+        </attvalues>
+      </edge>
+      <edge source="ChatGPT" target="resposta" id="449" weight="0.0211">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0211" />
+        </attvalues>
+      </edge>
+      <edge source="ChatGPT" target="entender" id="450" weight="0.0268">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0268" />
+        </attvalues>
+      </edge>
+      <edge source="ChatGPT" target="entrar" id="451" weight="0.0291">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0291" />
+        </attvalues>
+      </edge>
+      <edge source="ChatGPT" target="pessoal" id="452" weight="0.0215">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0215" />
+        </attvalues>
+      </edge>
+      <edge source="ChatGPT" target="ajudar" id="453" weight="0.0082">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0082" />
+        </attvalues>
+      </edge>
+      <edge source="ChatGPT" target="perguntar" id="454" weight="0.0109">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0109" />
+        </attvalues>
+      </edge>
+      <edge source="ChatGPT" target="acontecer" id="455" weight="0.0099">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0099" />
+        </attvalues>
+      </edge>
+      <edge source="ChatGPT" target="mundo" id="456" weight="0.0189">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0189" />
+        </attvalues>
+      </edge>
+      <edge source="ChatGPT" target="tentar" id="457" weight="0.0183">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0183" />
+        </attvalues>
+      </edge>
+      <edge source="ChatGPT" target="texto" id="458" weight="0.0183">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0183" />
+        </attvalues>
+      </edge>
+      <edge source="ChatGPT" target="pedir" id="459" weight="0.0192">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0192" />
+        </attvalues>
+      </edge>
+      <edge source="ChatGPT" target="equipe" id="460" weight="0.0103">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0103" />
+        </attvalues>
+      </edge>
+      <edge source="ChatGPT" target="área" id="461" weight="0.0099">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0099" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="texto" id="462" weight="0.0291">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0291" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="ideia" id="463" weight="0.0192">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0192" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="trazer" id="464" weight="0.0357">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0357" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="imagem" id="465" weight="0.023">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.023" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="chegar" id="466" weight="0.0108">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0108" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="resultado" id="467" weight="0.0106">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0106" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="análise" id="468" weight="0.0111">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0111" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="escrever" id="469" weight="0.0465">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0465" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="tempo" id="470" weight="0.0367">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0367" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="perguntar" id="471" weight="0.0233">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0233" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="tentar" id="472" weight="0.0192">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0192" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="negócio" id="473" weight="0.011">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.011" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="acontecer" id="474" weight="0.0104">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0104" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="pessoal" id="475" weight="0.0227">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0227" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="profissional" id="476" weight="0.0222">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0222" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="novo" id="477" weight="0.0215">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0215" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="produto" id="478" weight="0.0108">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0108" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="pensar" id="479" weight="0.019">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.019" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="entender" id="480" weight="0.0185">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0185" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="agente" id="481" weight="0.0217">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0217" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="entrar" id="482" weight="0.01">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.01" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="dado" id="483" weight="0.0099">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0099" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="informação" id="484" weight="0.0412">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0412" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="mandar" id="485" weight="0.0235">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0235" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="pegar" id="486" weight="0.0095">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0095" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="trabalhar" id="487" weight="0.0095">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0095" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="mundo" id="488" weight="0.0098">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0098" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="pedir" id="489" weight="0.01">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.01" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="mercado" id="490" weight="0.0103">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0103" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="área" id="491" weight="0.0211">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0211" />
+        </attvalues>
+      </edge>
+      <edge source="ajudar" target="equipe" id="492" weight="0.0109">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0109" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="ideia" id="493" weight="0.0505">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0505" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="trabalhar" id="494" weight="0.0196">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0196" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="escrever" id="495" weight="0.0233">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0233" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="gostar" id="496" weight="0.0202">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0202" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="resultado" id="497" weight="0.0449">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0449" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="resposta" id="498" weight="0.0588">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0588" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="pegar" id="499" weight="0.0097">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0097" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="análise" id="500" weight="0.023">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.023" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="tempo" id="501" weight="0.0183">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0183" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="pensar" id="502" weight="0.0396">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0396" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="informação" id="503" weight="0.0421">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0421" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="entender" id="504" weight="0.0286">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0286" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="pedir" id="505" weight="0.0312">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0312" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="dado" id="506" weight="0.0101">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0101" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="mercado" id="507" weight="0.0105">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0105" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="tentar" id="508" weight="0.0297">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0297" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="novo" id="509" weight="0.022">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.022" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="chegar" id="510" weight="0.011">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.011" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="mandar" id="511" weight="0.0119">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0119" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="texto" id="512" weight="0.0297">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0297" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="prompt" id="513" weight="0.0116">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0116" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="mundo" id="514" weight="0.01">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.01" />
+        </attvalues>
+      </edge>
+      <edge source="trazer" target="entrar" id="515" weight="0.0102">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0102" />
+        </attvalues>
+      </edge>
+      <edge source="entender" target="resposta" id="516" weight="0.0244">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0244" />
+        </attvalues>
+      </edge>
+      <edge source="entender" target="profissional" id="517" weight="0.0244">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0244" />
+        </attvalues>
+      </edge>
+      <edge source="entender" target="mandar" id="518" weight="0.0128">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0128" />
+        </attvalues>
+      </edge>
+      <edge source="entender" target="pedir" id="519" weight="0.0568">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0568" />
+        </attvalues>
+      </edge>
+      <edge source="entender" target="agente" id="520" weight="0.0238">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0238" />
+        </attvalues>
+      </edge>
+      <edge source="entender" target="entrar" id="521" weight="0.022">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.022" />
+        </attvalues>
+      </edge>
+      <edge source="entender" target="tentar" id="522" weight="0.0316">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0316" />
+        </attvalues>
+      </edge>
+      <edge source="entender" target="tempo" id="523" weight="0.0096">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0096" />
+        </attvalues>
+      </edge>
+      <edge source="entender" target="trabalhar" id="524" weight="0.0103">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0103" />
+        </attvalues>
+      </edge>
+      <edge source="entender" target="chegar" id="525" weight="0.0617">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0617" />
+        </attvalues>
+      </edge>
+      <edge source="entender" target="perguntar" id="526" weight="0.0127">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0127" />
+        </attvalues>
+      </edge>
+      <edge source="entender" target="escrever" id="527" weight="0.0123">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0123" />
+        </attvalues>
+      </edge>
+      <edge source="entender" target="pensar" id="528" weight="0.0312">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0312" />
+        </attvalues>
+      </edge>
+      <edge source="entender" target="mundo" id="529" weight="0.0326">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0326" />
+        </attvalues>
+      </edge>
+      <edge source="entender" target="negócio" id="530" weight="0.012">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.012" />
+        </attvalues>
+      </edge>
+      <edge source="entender" target="ideia" id="531" weight="0.0103">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0103" />
+        </attvalues>
+      </edge>
+      <edge source="entender" target="texto" id="532" weight="0.0208">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0208" />
+        </attvalues>
+      </edge>
+      <edge source="entender" target="resultado" id="533" weight="0.0116">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0116" />
+        </attvalues>
+      </edge>
+      <edge source="entender" target="pegar" id="534" weight="0.0103">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0103" />
+        </attvalues>
+      </edge>
+      <edge source="entender" target="produto" id="535" weight="0.0118">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0118" />
+        </attvalues>
+      </edge>
+      <edge source="tempo" target="área" id="536" weight="0.0222">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0222" />
+        </attvalues>
+      </edge>
+      <edge source="tempo" target="análise" id="537" weight="0.0118">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0118" />
+        </attvalues>
+      </edge>
+      <edge source="tempo" target="mundo" id="538" weight="0.0103">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0103" />
+        </attvalues>
+      </edge>
+      <edge source="tempo" target="testar" id="539" weight="0.0123">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0123" />
+        </attvalues>
+      </edge>
+      <edge source="tempo" target="tentar" id="540" weight="0.0202">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0202" />
+        </attvalues>
+      </edge>
+      <edge source="tempo" target="ideia" id="541" weight="0.0202">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0202" />
+        </attvalues>
+      </edge>
+      <edge source="tempo" target="mandar" id="542" weight="0.038">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.038" />
+        </attvalues>
+      </edge>
+      <edge source="tempo" target="texto" id="543" weight="0.0202">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0202" />
+        </attvalues>
+      </edge>
+      <edge source="tempo" target="pensar" id="544" weight="0.0303">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0303" />
+        </attvalues>
+      </edge>
+      <edge source="tempo" target="perguntar" id="545" weight="0.0247">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0247" />
+        </attvalues>
+      </edge>
+      <edge source="tempo" target="informação" id="546" weight="0.0213">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0213" />
+        </attvalues>
+      </edge>
+      <edge source="tempo" target="pegar" id="547" weight="0.0412">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0412" />
+        </attvalues>
+      </edge>
+      <edge source="tempo" target="negócio" id="548" weight="0.0235">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0235" />
+        </attvalues>
+      </edge>
+      <edge source="tempo" target="escrever" id="549" weight="0.0119">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0119" />
+        </attvalues>
+      </edge>
+      <edge source="tempo" target="resultado" id="550" weight="0.0227">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0227" />
+        </attvalues>
+      </edge>
+      <edge source="tempo" target="trabalhar" id="551" weight="0.0202">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0202" />
+        </attvalues>
+      </edge>
+      <edge source="tempo" target="novo" id="552" weight="0.0345">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0345" />
+        </attvalues>
+      </edge>
+      <edge source="tempo" target="pedir" id="553" weight="0.0105">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0105" />
+        </attvalues>
+      </edge>
+      <edge source="tempo" target="gostar" id="554" weight="0.0103">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0103" />
+        </attvalues>
+      </edge>
+      <edge source="tempo" target="resposta" id="555" weight="0.0116">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0116" />
+        </attvalues>
+      </edge>
+      <edge source="tempo" target="acontecer" id="556" weight="0.011">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.011" />
+        </attvalues>
+      </edge>
+      <edge source="trabalhar" target="ideia" id="557" weight="0.0108">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0108" />
+        </attvalues>
+      </edge>
+      <edge source="trabalhar" target="pessoal" id="558" weight="0.013">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.013" />
+        </attvalues>
+      </edge>
+      <edge source="trabalhar" target="agente" id="559" weight="0.0513">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0513" />
+        </attvalues>
+      </edge>
+      <edge source="trabalhar" target="dado" id="560" weight="0.0227">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0227" />
+        </attvalues>
+      </edge>
+      <edge source="trabalhar" target="entrar" id="561" weight="0.0114">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0114" />
+        </attvalues>
+      </edge>
+      <edge source="trabalhar" target="informação" id="562" weight="0.023">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.023" />
+        </attvalues>
+      </edge>
+      <edge source="trabalhar" target="pegar" id="563" weight="0.0217">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0217" />
+        </attvalues>
+      </edge>
+      <edge source="trabalhar" target="área" id="564" weight="0.0119">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0119" />
+        </attvalues>
+      </edge>
+      <edge source="trabalhar" target="mundo" id="565" weight="0.0225">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0225" />
+        </attvalues>
+      </edge>
+      <edge source="trabalhar" target="negócio" id="566" weight="0.0256">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0256" />
+        </attvalues>
+      </edge>
+      <edge source="trabalhar" target="botar" id="567" weight="0.0247">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0247" />
+        </attvalues>
+      </edge>
+      <edge source="trabalhar" target="pensar" id="568" weight="0.0215">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0215" />
+        </attvalues>
+      </edge>
+      <edge source="trabalhar" target="chegar" id="569" weight="0.0123">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0123" />
+        </attvalues>
+      </edge>
+      <edge source="trabalhar" target="gostar" id="570" weight="0.0111">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0111" />
+        </attvalues>
+      </edge>
+      <edge source="trabalhar" target="testar" id="571" weight="0.0274">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0274" />
+        </attvalues>
+      </edge>
+      <edge source="trabalhar" target="texto" id="572" weight="0.0217">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0217" />
+        </attvalues>
+      </edge>
+      <edge source="trabalhar" target="acontecer" id="573" weight="0.0119">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0119" />
+        </attvalues>
+      </edge>
+      <edge source="trabalhar" target="mercado" id="574" weight="0.0118">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0118" />
+        </attvalues>
+      </edge>
+      <edge source="trabalhar" target="análise" id="575" weight="0.0128">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0128" />
+        </attvalues>
+      </edge>
+      <edge source="trabalhar" target="equipe" id="576" weight="0.0125">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0125" />
+        </attvalues>
+      </edge>
+      <edge source="trabalhar" target="mandar" id="577" weight="0.0135">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0135" />
+        </attvalues>
+      </edge>
+      <edge source="texto" target="dado" id="578" weight="0.0112">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0112" />
+        </attvalues>
+      </edge>
+      <edge source="texto" target="mandar" id="579" weight="0.0563">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0563" />
+        </attvalues>
+      </edge>
+      <edge source="texto" target="imagem" id="580" weight="0.0845">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.0845" />
+        </attvalues>
+      </edge>
+      <edge source="texto" target="tentar" id="581" weight="0.0108">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0108" />
+        </attvalues>
+      </edge>
+      <edge source="texto" target="gostar" id="582" weight="0.0111">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0111" />
+        </attvalues>
+      </edge>
+      <edge source="texto" target="informação" id="583" weight="0.023">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.023" />
+        </attvalues>
+      </edge>
+      <edge source="texto" target="ideia" id="584" weight="0.0217">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0217" />
+        </attvalues>
+      </edge>
+      <edge source="texto" target="prompt" id="585" weight="0.0405">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0405" />
+        </attvalues>
+      </edge>
+      <edge source="texto" target="escrever" id="586" weight="0.013">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.013" />
+        </attvalues>
+      </edge>
+      <edge source="texto" target="pedir" id="587" weight="0.023">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.023" />
+        </attvalues>
+      </edge>
+      <edge source="texto" target="mundo" id="588" weight="0.0111">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0111" />
+        </attvalues>
+      </edge>
+      <edge source="texto" target="testar" id="589" weight="0.0135">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0135" />
+        </attvalues>
+      </edge>
+      <edge source="texto" target="pegar" id="590" weight="0.0217">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0217" />
+        </attvalues>
+      </edge>
+      <edge source="texto" target="resposta" id="591" weight="0.0127">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0127" />
+        </attvalues>
+      </edge>
+      <edge source="texto" target="botar" id="592" weight="0.0122">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0122" />
+        </attvalues>
+      </edge>
+      <edge source="texto" target="agente" id="593" weight="0.0123">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0123" />
+        </attvalues>
+      </edge>
+      <edge source="texto" target="equipe" id="594" weight="0.0125">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0125" />
+        </attvalues>
+      </edge>
+      <edge source="texto" target="chegar" id="595" weight="0.0123">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0123" />
+        </attvalues>
+      </edge>
+      <edge source="pensar" target="gostar" id="596" weight="0.0222">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0222" />
+        </attvalues>
+      </edge>
+      <edge source="pensar" target="escrever" id="597" weight="0.026">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.026" />
+        </attvalues>
+      </edge>
+      <edge source="pensar" target="agente" id="598" weight="0.0122">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0122" />
+        </attvalues>
+      </edge>
+      <edge source="pensar" target="tentar" id="599" weight="0.0215">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0215" />
+        </attvalues>
+      </edge>
+      <edge source="pensar" target="ideia" id="600" weight="0.0106">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0106" />
+        </attvalues>
+      </edge>
+      <edge source="pensar" target="novo" id="601" weight="0.012">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.012" />
+        </attvalues>
+      </edge>
+      <edge source="pensar" target="resposta" id="602" weight="0.0125">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0125" />
+        </attvalues>
+      </edge>
+      <edge source="pensar" target="informação" id="603" weight="0.0227">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0227" />
+        </attvalues>
+      </edge>
+      <edge source="pensar" target="mundo" id="604" weight="0.0222">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0222" />
+        </attvalues>
+      </edge>
+      <edge source="pensar" target="pessoal" id="605" weight="0.0128">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0128" />
+        </attvalues>
+      </edge>
+      <edge source="pensar" target="profissional" id="606" weight="0.0125">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0125" />
+        </attvalues>
+      </edge>
+      <edge source="pensar" target="mercado" id="607" weight="0.0116">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0116" />
+        </attvalues>
+      </edge>
+      <edge source="pensar" target="botar" id="608" weight="0.012">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.012" />
+        </attvalues>
+      </edge>
+      <edge source="pensar" target="chegar" id="609" weight="0.0122">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0122" />
+        </attvalues>
+      </edge>
+      <edge source="pensar" target="dado" id="610" weight="0.0111">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0111" />
+        </attvalues>
+      </edge>
+      <edge source="pensar" target="pegar" id="611" weight="0.0106">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0106" />
+        </attvalues>
+      </edge>
+      <edge source="pensar" target="entrar" id="612" weight="0.0112">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0112" />
+        </attvalues>
+      </edge>
+      <edge source="pensar" target="equipe" id="613" weight="0.0123">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0123" />
+        </attvalues>
+      </edge>
+      <edge source="tentar" target="entrar" id="614" weight="0.023">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.023" />
+        </attvalues>
+      </edge>
+      <edge source="tentar" target="mercado" id="615" weight="0.0118">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0118" />
+        </attvalues>
+      </edge>
+      <edge source="tentar" target="testar" id="616" weight="0.0274">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0274" />
+        </attvalues>
+      </edge>
+      <edge source="tentar" target="perguntar" id="617" weight="0.0133">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0133" />
+        </attvalues>
+      </edge>
+      <edge source="tentar" target="novo" id="618" weight="0.0247">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0247" />
+        </attvalues>
+      </edge>
+      <edge source="tentar" target="agente" id="619" weight="0.0123">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0123" />
+        </attvalues>
+      </edge>
+      <edge source="tentar" target="profissional" id="620" weight="0.0256">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0256" />
+        </attvalues>
+      </edge>
+      <edge source="tentar" target="gostar" id="621" weight="0.0111">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0111" />
+        </attvalues>
+      </edge>
+      <edge source="tentar" target="informação" id="622" weight="0.023">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.023" />
+        </attvalues>
+      </edge>
+      <edge source="tentar" target="chegar" id="623" weight="0.0123">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0123" />
+        </attvalues>
+      </edge>
+      <edge source="tentar" target="mundo" id="624" weight="0.0225">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0225" />
+        </attvalues>
+      </edge>
+      <edge source="tentar" target="pessoal" id="625" weight="0.013">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.013" />
+        </attvalues>
+      </edge>
+      <edge source="tentar" target="negócio" id="626" weight="0.0127">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0127" />
+        </attvalues>
+      </edge>
+      <edge source="tentar" target="pegar" id="627" weight="0.0108">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0108" />
+        </attvalues>
+      </edge>
+      <edge source="tentar" target="escrever" id="628" weight="0.013">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.013" />
+        </attvalues>
+      </edge>
+      <edge source="tentar" target="ideia" id="629" weight="0.0108">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0108" />
+        </attvalues>
+      </edge>
+      <edge source="informação" target="dado" id="630" weight="0.0625">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="informação" target="entrar" id="631" weight="0.0244">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0244" />
+        </attvalues>
+      </edge>
+      <edge source="informação" target="ideia" id="632" weight="0.0114">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0114" />
+        </attvalues>
+      </edge>
+      <edge source="informação" target="pegar" id="633" weight="0.0471">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0471" />
+        </attvalues>
+      </edge>
+      <edge source="informação" target="gostar" id="634" weight="0.0238">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0238" />
+        </attvalues>
+      </edge>
+      <edge source="informação" target="novo" id="635" weight="0.0263">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0263" />
+        </attvalues>
+      </edge>
+      <edge source="informação" target="pedir" id="636" weight="0.0244">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0244" />
+        </attvalues>
+      </edge>
+      <edge source="informação" target="resposta" id="637" weight="0.0274">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0274" />
+        </attvalues>
+      </edge>
+      <edge source="informação" target="agente" id="638" weight="0.0132">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0132" />
+        </attvalues>
+      </edge>
+      <edge source="informação" target="mandar" id="639" weight="0.0448">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0448" />
+        </attvalues>
+      </edge>
+      <edge source="informação" target="chegar" id="640" weight="0.0132">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0132" />
+        </attvalues>
+      </edge>
+      <edge source="informação" target="mercado" id="641" weight="0.0253">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0253" />
+        </attvalues>
+      </edge>
+      <edge source="informação" target="acontecer" id="642" weight="0.0127">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0127" />
+        </attvalues>
+      </edge>
+      <edge source="informação" target="mundo" id="643" weight="0.0238">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0238" />
+        </attvalues>
+      </edge>
+      <edge source="informação" target="pessoal" id="644" weight="0.0282">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0282" />
+        </attvalues>
+      </edge>
+      <edge source="informação" target="profissional" id="645" weight="0.0135">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0135" />
+        </attvalues>
+      </edge>
+      <edge source="informação" target="testar" id="646" weight="0.0145">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0145" />
+        </attvalues>
+      </edge>
+      <edge source="informação" target="perguntar" id="647" weight="0.0143">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0143" />
+        </attvalues>
+      </edge>
+      <edge source="informação" target="escrever" id="648" weight="0.0139">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0139" />
+        </attvalues>
+      </edge>
+      <edge source="informação" target="área" id="649" weight="0.0127">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0127" />
+        </attvalues>
+      </edge>
+      <edge source="informação" target="botar" id="650" weight="0.0263">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0263" />
+        </attvalues>
+      </edge>
+      <edge source="mercado" target="entrar" id="651" weight="0.0658">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0658" />
+        </attvalues>
+      </edge>
+      <edge source="mercado" target="testar" id="652" weight="0.0152">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0152" />
+        </attvalues>
+      </edge>
+      <edge source="mercado" target="dado" id="653" weight="0.025">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.025" />
+        </attvalues>
+      </edge>
+      <edge source="mercado" target="produto" id="654" weight="0.0571">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0571" />
+        </attvalues>
+      </edge>
+      <edge source="mercado" target="área" id="655" weight="0.0405">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0405" />
+        </attvalues>
+      </edge>
+      <edge source="mercado" target="botar" id="656" weight="0.0417">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0417" />
+        </attvalues>
+      </edge>
+      <edge source="mercado" target="análise" id="657" weight="0.0758">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0758" />
+        </attvalues>
+      </edge>
+      <edge source="mercado" target="prompt" id="658" weight="0.0455">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0455" />
+        </attvalues>
+      </edge>
+      <edge source="mercado" target="novo" id="659" weight="0.0135">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0135" />
+        </attvalues>
+      </edge>
+      <edge source="mercado" target="mundo" id="660" weight="0.0122">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0122" />
+        </attvalues>
+      </edge>
+      <edge source="mercado" target="pegar" id="661" weight="0.0118">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0118" />
+        </attvalues>
+      </edge>
+      <edge source="mercado" target="chegar" id="662" weight="0.0137">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0137" />
+        </attvalues>
+      </edge>
+      <edge source="mercado" target="resultado" id="663" weight="0.0135">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0135" />
+        </attvalues>
+      </edge>
+      <edge source="mercado" target="pedir" id="664" weight="0.0125">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0125" />
+        </attvalues>
+      </edge>
+      <edge source="ideia" target="novo" id="665" weight="0.0641">
+        <attvalues>
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0.0641" />
+        </attvalues>
+      </edge>
+      <edge source="ideia" target="chegar" id="666" weight="0.038">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.038" />
+        </attvalues>
+      </edge>
+      <edge source="ideia" target="resultado" id="667" weight="0.0122">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0122" />
+        </attvalues>
+      </edge>
+      <edge source="ideia" target="prompt" id="668" weight="0.0132">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0132" />
+        </attvalues>
+      </edge>
+      <edge source="ideia" target="mandar" id="669" weight="0.0135">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0135" />
+        </attvalues>
+      </edge>
+      <edge source="ideia" target="pegar" id="670" weight="0.0108">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0108" />
+        </attvalues>
+      </edge>
+      <edge source="ideia" target="escrever" id="671" weight="0.013">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.013" />
+        </attvalues>
+      </edge>
+      <edge source="ideia" target="perguntar" id="672" weight="0.027">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.027" />
+        </attvalues>
+      </edge>
+      <edge source="ideia" target="gostar" id="673" weight="0.0111">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0111" />
+        </attvalues>
+      </edge>
+      <edge source="ideia" target="negócio" id="674" weight="0.0127">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0127" />
+        </attvalues>
+      </edge>
+      <edge source="ideia" target="equipe" id="675" weight="0.0125">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0125" />
+        </attvalues>
+      </edge>
+      <edge source="ideia" target="pedir" id="676" weight="0.023">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.023" />
+        </attvalues>
+      </edge>
+      <edge source="ideia" target="acontecer" id="677" weight="0.0119">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0119" />
+        </attvalues>
+      </edge>
+      <edge source="ideia" target="agente" id="678" weight="0.025">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.025" />
+        </attvalues>
+      </edge>
+      <edge source="ideia" target="mundo" id="679" weight="0.0111">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0111" />
+        </attvalues>
+      </edge>
+      <edge source="ideia" target="área" id="680" weight="0.0119">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0119" />
+        </attvalues>
+      </edge>
+      <edge source="pedir" target="agente" id="681" weight="0.0132">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0132" />
+        </attvalues>
+      </edge>
+      <edge source="pedir" target="novo" id="682" weight="0.013">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.013" />
+        </attvalues>
+      </edge>
+      <edge source="pedir" target="produto" id="683" weight="0.0132">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0132" />
+        </attvalues>
+      </edge>
+      <edge source="pedir" target="prompt" id="684" weight="0.0286">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0286" />
+        </attvalues>
+      </edge>
+      <edge source="pedir" target="resultado" id="685" weight="0.0263">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0263" />
+        </attvalues>
+      </edge>
+      <edge source="pedir" target="mandar" id="686" weight="0.0448">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0448" />
+        </attvalues>
+      </edge>
+      <edge source="pedir" target="resposta" id="687" weight="0.0135">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0135" />
+        </attvalues>
+      </edge>
+      <edge source="pedir" target="pegar" id="688" weight="0.023">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.023" />
+        </attvalues>
+      </edge>
+      <edge source="pedir" target="análise" id="689" weight="0.0137">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0137" />
+        </attvalues>
+      </edge>
+      <edge source="pedir" target="acontecer" id="690" weight="0.0127">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0127" />
+        </attvalues>
+      </edge>
+      <edge source="pedir" target="entrar" id="691" weight="0.012">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.012" />
+        </attvalues>
+      </edge>
+      <edge source="pedir" target="chegar" id="692" weight="0.0132">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0132" />
+        </attvalues>
+      </edge>
+      <edge source="pedir" target="imagem" id="693" weight="0.0141">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0141" />
+        </attvalues>
+      </edge>
+      <edge source="dado" target="análise" id="694" weight="0.087">
+        <attvalues>
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.087" />
+        </attvalues>
+      </edge>
+      <edge source="dado" target="mandar" id="695" weight="0.029">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.029" />
+        </attvalues>
+      </edge>
+      <edge source="dado" target="gostar" id="696" weight="0.0116">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0116" />
+        </attvalues>
+      </edge>
+      <edge source="dado" target="testar" id="697" weight="0.0441">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0441" />
+        </attvalues>
+      </edge>
+      <edge source="dado" target="entrar" id="698" weight="0.0241">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0241" />
+        </attvalues>
+      </edge>
+      <edge source="dado" target="agente" id="699" weight="0.0263">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0263" />
+        </attvalues>
+      </edge>
+      <edge source="dado" target="pegar" id="700" weight="0.0227">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0227" />
+        </attvalues>
+      </edge>
+      <edge source="dado" target="escrever" id="701" weight="0.0137">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0137" />
+        </attvalues>
+      </edge>
+      <edge source="dado" target="prompt" id="702" weight="0.0282">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0282" />
+        </attvalues>
+      </edge>
+      <edge source="dado" target="área" id="703" weight="0.0125">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0125" />
+        </attvalues>
+      </edge>
+      <edge source="dado" target="botar" id="704" weight="0.026">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.026" />
+        </attvalues>
+      </edge>
+      <edge source="dado" target="produto" id="705" weight="0.013">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.013" />
+        </attvalues>
+      </edge>
+      <edge source="dado" target="imagem" id="706" weight="0.0139">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0139" />
+        </attvalues>
+      </edge>
+      <edge source="dado" target="resultado" id="707" weight="0.0395">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0395" />
+        </attvalues>
+      </edge>
+      <edge source="pegar" target="mundo" id="708" weight="0.0341">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0341" />
+        </attvalues>
+      </edge>
+      <edge source="pegar" target="área" id="709" weight="0.0241">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0241" />
+        </attvalues>
+      </edge>
+      <edge source="pegar" target="resposta" id="710" weight="0.0127">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0127" />
+        </attvalues>
+      </edge>
+      <edge source="pegar" target="agente" id="711" weight="0.038">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.038" />
+        </attvalues>
+      </edge>
+      <edge source="pegar" target="mandar" id="712" weight="0.0417">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0417" />
+        </attvalues>
+      </edge>
+      <edge source="pegar" target="negócio" id="713" weight="0.0256">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0256" />
+        </attvalues>
+      </edge>
+      <edge source="pegar" target="entrar" id="714" weight="0.0114">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0114" />
+        </attvalues>
+      </edge>
+      <edge source="pegar" target="produto" id="715" weight="0.025">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.025" />
+        </attvalues>
+      </edge>
+      <edge source="pegar" target="prompt" id="716" weight="0.0267">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0267" />
+        </attvalues>
+      </edge>
+      <edge source="pegar" target="análise" id="717" weight="0.0128">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0128" />
+        </attvalues>
+      </edge>
+      <edge source="pegar" target="equipe" id="718" weight="0.0125">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0125" />
+        </attvalues>
+      </edge>
+      <edge source="área" target="resultado" id="719" weight="0.0137">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0137" />
+        </attvalues>
+      </edge>
+      <edge source="área" target="negócio" id="720" weight="0.029">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.029" />
+        </attvalues>
+      </edge>
+      <edge source="área" target="profissional" id="721" weight="0.0143">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0143" />
+        </attvalues>
+      </edge>
+      <edge source="área" target="entrar" id="722" weight="0.0256">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0256" />
+        </attvalues>
+      </edge>
+      <edge source="área" target="produto" id="723" weight="0.0429">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0429" />
+        </attvalues>
+      </edge>
+      <edge source="área" target="análise" id="724" weight="0.0448">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0448" />
+        </attvalues>
+      </edge>
+      <edge source="área" target="imagem" id="725" weight="0.0303">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0303" />
+        </attvalues>
+      </edge>
+      <edge source="área" target="equipe" id="726" weight="0.0286">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0286" />
+        </attvalues>
+      </edge>
+      <edge source="gostar" target="escrever" id="727" weight="0.0135">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0135" />
+        </attvalues>
+      </edge>
+      <edge source="gostar" target="resultado" id="728" weight="0.0127">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0127" />
+        </attvalues>
+      </edge>
+      <edge source="gostar" target="testar" id="729" weight="0.0588">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0588" />
+        </attvalues>
+      </edge>
+      <edge source="gostar" target="chegar" id="730" weight="0.0533">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0533" />
+        </attvalues>
+      </edge>
+      <edge source="gostar" target="resposta" id="731" weight="0.0405">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0405" />
+        </attvalues>
+      </edge>
+      <edge source="gostar" target="perguntar" id="732" weight="0.0139">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0139" />
+        </attvalues>
+      </edge>
+      <edge source="gostar" target="mandar" id="733" weight="0.0141">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0141" />
+        </attvalues>
+      </edge>
+      <edge source="gostar" target="acontecer" id="734" weight="0.0123">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0123" />
+        </attvalues>
+      </edge>
+      <edge source="gostar" target="pessoal" id="735" weight="0.0135">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0135" />
+        </attvalues>
+      </edge>
+      <edge source="mundo" target="testar" id="736" weight="0.0435">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0435" />
+        </attvalues>
+      </edge>
+      <edge source="mundo" target="pessoal" id="737" weight="0.0563">
+        <attvalues>
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.0563" />
+        </attvalues>
+      </edge>
+      <edge source="mundo" target="prompt" id="738" weight="0.0137">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0137" />
+        </attvalues>
+      </edge>
+      <edge source="mundo" target="equipe" id="739" weight="0.04">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.04" />
+        </attvalues>
+      </edge>
+      <edge source="mundo" target="acontecer" id="740" weight="0.025">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.025" />
+        </attvalues>
+      </edge>
+      <edge source="mundo" target="profissional" id="741" weight="0.0132">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0132" />
+        </attvalues>
+      </edge>
+      <edge source="mundo" target="chegar" id="742" weight="0.0128">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0128" />
+        </attvalues>
+      </edge>
+      <edge source="mundo" target="resposta" id="743" weight="0.0132">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0132" />
+        </attvalues>
+      </edge>
+      <edge source="mundo" target="entrar" id="744" weight="0.0118">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0118" />
+        </attvalues>
+      </edge>
+      <edge source="mundo" target="produto" id="745" weight="0.0128">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0128" />
+        </attvalues>
+      </edge>
+      <edge source="entrar" target="testar" id="746" weight="0.0294">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0294" />
+        </attvalues>
+      </edge>
+      <edge source="entrar" target="agente" id="747" weight="0.0132">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0132" />
+        </attvalues>
+      </edge>
+      <edge source="entrar" target="profissional" id="748" weight="0.0135">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0135" />
+        </attvalues>
+      </edge>
+      <edge source="entrar" target="pessoal" id="749" weight="0.0139">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0139" />
+        </attvalues>
+      </edge>
+      <edge source="entrar" target="equipe" id="750" weight="0.0133">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0133" />
+        </attvalues>
+      </edge>
+      <edge source="entrar" target="botar" id="751" weight="0.013">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.013" />
+        </attvalues>
+      </edge>
+      <edge source="acontecer" target="perguntar" id="752" weight="0.0152">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0152" />
+        </attvalues>
+      </edge>
+      <edge source="acontecer" target="pessoal" id="753" weight="0.0299">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0299" />
+        </attvalues>
+      </edge>
+      <edge source="acontecer" target="novo" id="754" weight="0.0137">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0137" />
+        </attvalues>
+      </edge>
+      <edge source="botar" target="testar" id="755" weight="0.0492">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0492" />
+        </attvalues>
+      </edge>
+      <edge source="botar" target="mandar" id="756" weight="0.0159">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0159" />
+        </attvalues>
+      </edge>
+      <edge source="botar" target="perguntar" id="757" weight="0.0156">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0156" />
+        </attvalues>
+      </edge>
+      <edge source="botar" target="produto" id="758" weight="0.029">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.029" />
+        </attvalues>
+      </edge>
+      <edge source="botar" target="resultado" id="759" weight="0.0141">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0141" />
+        </attvalues>
+      </edge>
+      <edge source="botar" target="análise" id="760" weight="0.0303">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0303" />
+        </attvalues>
+      </edge>
+      <edge source="agente" target="prompt" id="761" weight="0.0317">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0317" />
+        </attvalues>
+      </edge>
+      <edge source="agente" target="novo" id="762" weight="0.0143">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0143" />
+        </attvalues>
+      </edge>
+      <edge source="agente" target="produto" id="763" weight="0.0145">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0145" />
+        </attvalues>
+      </edge>
+      <edge source="agente" target="profissional" id="764" weight="0.0149">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0149" />
+        </attvalues>
+      </edge>
+      <edge source="agente" target="mandar" id="765" weight="0.0328">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0328" />
+        </attvalues>
+      </edge>
+      <edge source="agente" target="equipe" id="766" weight="0.0147">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0147" />
+        </attvalues>
+      </edge>
+      <edge source="agente" target="chegar" id="767" weight="0.0294">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0294" />
+        </attvalues>
+      </edge>
+      <edge source="novo" target="produto" id="768" weight="0.0441">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0441" />
+        </attvalues>
+      </edge>
+      <edge source="novo" target="pessoal" id="769" weight="0.0308">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0308" />
+        </attvalues>
+      </edge>
+      <edge source="novo" target="negócio" id="770" weight="0.0299">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0299" />
+        </attvalues>
+      </edge>
+      <edge source="equipe" target="pessoal" id="771" weight="0.0156">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0156" />
+        </attvalues>
+      </edge>
+      <edge source="equipe" target="resultado" id="772" weight="0.0145">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0145" />
+        </attvalues>
+      </edge>
+      <edge source="equipe" target="perguntar" id="773" weight="0.0161">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0161" />
+        </attvalues>
+      </edge>
+      <edge source="equipe" target="análise" id="774" weight="0.0312">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0312" />
+        </attvalues>
+      </edge>
+      <edge source="equipe" target="produto" id="775" weight="0.0147">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0147" />
+        </attvalues>
+      </edge>
+      <edge source="equipe" target="imagem" id="776" weight="0.0323">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0323" />
+        </attvalues>
+      </edge>
+      <edge source="equipe" target="mandar" id="777" weight="0.0164">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0164" />
+        </attvalues>
+      </edge>
+      <edge source="chegar" target="resultado" id="778" weight="0.0441">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0441" />
+        </attvalues>
+      </edge>
+      <edge source="chegar" target="negócio" id="779" weight="0.0149">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0149" />
+        </attvalues>
+      </edge>
+      <edge source="chegar" target="perguntar" id="780" weight="0.0323">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0323" />
+        </attvalues>
+      </edge>
+      <edge source="chegar" target="mandar" id="781" weight="0.0328">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0328" />
+        </attvalues>
+      </edge>
+      <edge source="chegar" target="resposta" id="782" weight="0.0149">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0149" />
+        </attvalues>
+      </edge>
+      <edge source="chegar" target="análise" id="783" weight="0.0152">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0152" />
+        </attvalues>
+      </edge>
+      <edge source="chegar" target="imagem" id="784" weight="0.0156">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0156" />
+        </attvalues>
+      </edge>
+      <edge source="produto" target="negócio" id="785" weight="0.0149">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0149" />
+        </attvalues>
+      </edge>
+      <edge source="produto" target="prompt" id="786" weight="0.0156">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0156" />
+        </attvalues>
+      </edge>
+      <edge source="produto" target="análise" id="787" weight="0.0152">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0152" />
+        </attvalues>
+      </edge>
+      <edge source="resultado" target="escrever" id="788" weight="0.0308">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0308" />
+        </attvalues>
+      </edge>
+      <edge source="resultado" target="prompt" id="789" weight="0.0312">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0312" />
+        </attvalues>
+      </edge>
+      <edge source="resultado" target="análise" id="790" weight="0.0303">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0303" />
+        </attvalues>
+      </edge>
+      <edge source="resultado" target="testar" id="791" weight="0.0159">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0159" />
+        </attvalues>
+      </edge>
+      <edge source="profissional" target="pessoal" id="792" weight="0.0492">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0492" />
+        </attvalues>
+      </edge>
+      <edge source="profissional" target="negócio" id="793" weight="0.0154">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0154" />
+        </attvalues>
+      </edge>
+      <edge source="profissional" target="perguntar" id="794" weight="0.0164">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0164" />
+        </attvalues>
+      </edge>
+      <edge source="profissional" target="imagem" id="795" weight="0.0161">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0161" />
+        </attvalues>
+      </edge>
+      <edge source="resposta" target="escrever" id="796" weight="0.0323">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0323" />
+        </attvalues>
+      </edge>
+      <edge source="resposta" target="perguntar" id="797" weight="0.0333">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0333" />
+        </attvalues>
+      </edge>
+      <edge source="resposta" target="prompt" id="798" weight="0.0161">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0161" />
+        </attvalues>
+      </edge>
+      <edge source="prompt" target="escrever" id="799" weight="0.0339">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0339" />
+        </attvalues>
+      </edge>
+      <edge source="prompt" target="mandar" id="800" weight="0.0545">
+        <attvalues>
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.0545" />
+        </attvalues>
+      </edge>
+      <edge source="prompt" target="negócio" id="801" weight="0.0161">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0161" />
+        </attvalues>
+      </edge>
+      <edge source="prompt" target="análise" id="802" weight="0.0164">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0164" />
+        </attvalues>
+      </edge>
+      <edge source="prompt" target="imagem" id="803" weight="0.0169">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0169" />
+        </attvalues>
+      </edge>
+      <edge source="escrever" target="negócio" id="804" weight="0.0323">
+        <attvalues>
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.0323" />
+        </attvalues>
+      </edge>
+      <edge source="escrever" target="pessoal" id="805" weight="0.0164">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0164" />
+        </attvalues>
+      </edge>
+      <edge source="escrever" target="mandar" id="806" weight="0.0172">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0172" />
+        </attvalues>
+      </edge>
+      <edge source="pessoal" target="imagem" id="807" weight="0.0167">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0167" />
+        </attvalues>
+      </edge>
+      <edge source="pessoal" target="análise" id="808" weight="0.0161">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0161" />
+        </attvalues>
+      </edge>
+      <edge source="imagem" target="mandar" id="809" weight="0.0175">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0175" />
+        </attvalues>
+      </edge>
+      <edge source="negócio" target="mandar" id="810" weight="0.0167">
+        <attvalues>
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0.0167" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

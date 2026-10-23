@@ -1,0 +1,32 @@
+categoria,termo,padrao,excluir,semente,aspecto_gallagher,fonte,nota
+pronomes_1a_pessoa,eu,\beu\b,,0,,LIWC (i); BP-LIWC2015 (eu),Em 44% das frases dos entrevistados; só medido (pegada) e não usado como semente
+pronomes_1a_pessoa,me/mim/comigo,\b(me|mim|comigo)\b,,0,,LIWC (i); BP-LIWC2015 (eu),
+pronomes_1a_pessoa,meu/minha,\b(meu|minha|meus|minhas)\b,,0,,LIWC (i); BP-LIWC2015 (eu),
+autodefinicao,sou,\bsou\b,,1,narrativo; psicológico,Kuhn & McPartland 1954; Snow & Anderson 1987,Inclui 'eu sou' e 'não sou'; 'sou' só existe na 1ª pessoa de ser
+autodefinicao,sempre fui,\bsempre fui\b,,1,narrativo,Kuhn & McPartland 1954,
+autodefinicao,me considero,\bme consider(o|ava)\b,,1,psicológico,Kuhn & McPartland 1954,
+autodefinicao,me vejo,\bme (vejo|via|enxergo)\b,,1,psicológico,Kuhn & McPartland 1954,
+autodefinicao,me sinto,\bme (sinto|sentia|senti)\b,,1,afetivo,Kuhn & McPartland 1954,
+autodefinicao,me acho,\bme acho\b,,1,psicológico,Kuhn & McPartland 1954,
+autodefinicao,me identifico,\bme (identifico|defino|reconheço)\b,,1,narrativo,Snow & Anderson 1987,
+autodefinicao,me tornei,\b(me tornei|virei (um|uma))\b,,1,narrativo,Ibarra 1999,
+autodefinicao,eu mesmo,\beu mesm[oa]\b,,1,mínimo (agência),Gallagher 2000,
+autodefinicao,como pessoa/profissional,\bcomo (pessoa|profissional|usu[áa]ri[oa]|gestor[a]?|l[íi]der)\b,,1,situado (papel),Stryker & Burke 2000,Enquadramento de papel: 'eu como profissional'
+agencia_autoria,autoria,\bautor(ia|a|es|as)?\b,,1,mínimo (agência e posse),Gallagher 2000,O roteiro pergunta sobre autoria nas 8 entrevistas
+agencia_autoria,é meu,"\b(é|são|seria|foi) (meu|minha|meus|minhas)\s*(?=[.,;:!?)""]|$)",,1,mínimo (posse),Gallagher 2000; Belk 1988,Posse do resultado: 'o resultado é meu'
+agencia_autoria,fui eu,\b(fui eu|eu que (fiz|escrevi|criei|pensei|decidi|desenvolvi))\b,,1,mínimo (agência),Gallagher 2000,
+agencia_autoria,responsabilidade minha,\b(responsabilidade (é )?minha|minha responsabilidade)\b,,1,mínimo (agência),Gallagher 2000,
+agencia_autoria,mérito,\bm[ée]rito\b,,1,mínimo (agência),Gallagher 2000,
+self_estendido,cérebro externo,\b(c[ée]rebro (externo|auxiliar)|segundo c[ée]rebro)\b,,1,estendido,Clark & Chalmers 1998; Gallagher 2013,
+self_estendido,minha cabeça/mente,\bminha (cabe[çc]a|mente|mem[óo]ria)\b,,1,estendido; cognitivo,Clark & Chalmers 1998,'na minha cabeça o resultado é meu'
+self_estendido,parte de mim,\b(parte de mim|extens[ãa]o d[eoa] (mim|meu|minha))\b,,1,estendido,Belk 1988; Belk 2013,
+self_estendido,no meu lugar,\b(como se fosse eu|no meu lugar|pensa(r)? por mim)\b,,1,estendido,Belk 2013,
+self_estendido,acessório/braço direito,\b(bra[çc]o direito|acess[óo]rio|pr[óo]tese)\b,,1,estendido,Belk 1988; Clark & Chalmers 1998,
+vocabulario_self,identidade,\bidentidade\b,identidade digital|relacionad[oa]s? à identidade|sua identidade será,1,narrativo,Oyserman et al. 2012,Benesson cuida de produtos de identidade digital: excluído
+vocabulario_self,self,\bself\b,,1,,Oyserman et al. 2012,
+vocabulario_self,essência,\bess[êe]ncia\b,,1,,Oyserman et al. 2012,
+vocabulario_self,autenticidade,\baut[êe]ntic(o|a|os|as|idade)\b,,1,,Oyserman et al. 2012,Não pega 'autenticação'
+vocabulario_self,individualidade,\b(individualidade|subjetividade|ego)\b,,1,,Oyserman et al. 2012,
+vocabulario_self,autoimagem,\b(minha imagem|auto(imagem|percep[çc][ãa]o|estima|confian[çc]a|conhecimento|avalia[çc][ãa]o|cr[íi]tica|efic[áa]cia))\b,,1,psicológico,Leary & Tangney 2012,
+self_atribuido_ia,personalidade,\bpersonalidades?\b,,0,intersubjetivo,Epley et al. 2007,No corpus é quase sempre a personalidade da IA (pergunta do roteiro)
+self_atribuido_ia,autonomia,\bautonomia\b,,0,,Epley et al. 2007,No corpus é a autonomia da IA

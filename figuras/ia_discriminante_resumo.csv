@@ -1,0 +1,5 @@
+﻿modelo,preditores,acerto_medio_por_grupo,acerto_global,p_permutacao,acerto_medio_entrevistado_fora,alguem_como_alguem,alguem_como_coisa,coisa_como_alguem,coisa_como_coisa
+lemas,131,0.652,0.665,0.001,0.628,88,53,131,278
+lemas sem pistas,116,0.575,0.638,0.004,0.54,63,78,121,288
+formas,343,0.659,0.704,0.001,0.602,80,61,102,307
+formas sem pistas,324,0.604,0.671,0.001,0.571,66,75,106,303

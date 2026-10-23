@@ -1,0 +1,657 @@
+id,codigo,secundario,proprio,nota
+benesson-008-07,instrumento,,1,plano corporativo
+benesson-008-10,instrumento,,1,persona no prompt
+benesson-008-15,instrumento,,1,avalia como produto
+benesson-008-21,instrumento,,1,delegação sem papel
+benesson-008-24,instrumento,,1,
+benesson-008-27,instrumento,,1,
+benesson-008-30,agente,,1,agentes como força de trabalho
+benesson-008-38,interlocutor,instrumento,1,"vocativo ""fala aí, gente""; ""cuspiu"" a lista"
+benesson-012-01,agente,,1,"""fica pensando"""
+benesson-012-03,instrumento,,1,
+benesson-012-04,instrumento,,1,
+benesson-012-05,instrumento,,1,
+benesson-012-07,instrumento,,1,
+benesson-012-08,instrumento,,1,
+benesson-012-09,instrumento,,1,
+benesson-016-12,interlocutor,,1,conv: conversar com
+benesson-020-03,neutro,,1,
+benesson-020-04,neutro,,1,
+benesson-020-08,instrumento,,1,
+benesson-020-09,instrumento,,1,
+benesson-022-05,instrumento,,1,com ajuda de agentes
+benesson-022-13,interlocutor,,1,discussão longuíssima
+benesson-022-15,nao_ia,,1,pronome = serviços
+benesson-022-23,instrumento,,1,limite de capacidade
+benesson-022-28,instrumento,,1,
+benesson-022-30,agente,,1,a IA foi me guiando
+benesson-022-34,interlocutor,,1,"tutora, parceira, revisora"
+benesson-022-38,instrumento,,1,
+benesson-024-08,instrumento,,1,
+benesson-024-14,agente,,1,IA como executora ao lado de terceiros
+benesson-024-18,instrumento,,1,
+benesson-024-21,instrumento,,1,
+benesson-054-01,agente,,1,pensamento da IA
+benesson-058-02,instrumento,,1,ferramentas são minhas
+benesson-058-04,instrumento,,1,
+benesson-058-07,negacao,,1,resposta deriva de autores humanos
+benesson-058-09,negacao,,1,"""como ferramenta"", processa dados"
+benesson-062-01,agente,,1,"seguida de ""capacidade de pensamento que passou o humano"""
+benesson-066-03,neutro,,1,
+benesson-066-04,agente,,1,raciocínio supera
+benesson-068-11,instrumento,,1,
+benesson-068-12,nao_ia,,1,pronome = adoção
+benesson-072-04,instrumento,,1,colega pediu ao agente
+benesson-080-01,instrumento,,0,fala do CEO
+benesson-084-03,instrumento,,1,
+benesson-088-00,instrumento,,1,como Excel e Word
+benesson-088-08,instrumento,,1,
+benesson-088-10,neutro,,1,
+emanuele-015-02,instrumento,,1,
+emanuele-015-04,instrumento,,1,
+emanuele-019-00,instrumento,,1,
+emanuele-019-01,instrumento,,1,pronome = chats
+emanuele-021-00,instrumento,,1,
+emanuele-021-01,instrumento,,1,
+emanuele-021-03,agente,,1,a IA sugerindo fórmulas
+emanuele-021-04,agente,,1,"conv: ""junto com a IA""; ""me ajude"""
+emanuele-021-06,instrumento,,1,coloco a IA pra ler
+emanuele-023-03,neutro,,0,confiança da equipe
+emanuele-023-04,neutro,,1,
+emanuele-027-00,instrumento,,1,erros nas fórmulas
+emanuele-027-02,instrumento,,1,
+emanuele-027-04,agente,,1,"""ele não concordou, ele falou"""
+emanuele-027-08,instrumento,,1,
+emanuele-027-10,instrumento,,1,
+emanuele-027-11,instrumento,,1,
+emanuele-037-01,instrumento,,1,
+emanuele-045-00,agente,,1,a IA tem e cria vieses
+emanuele-045-02,agente,,1,traz outras visões
+emanuele-045-04,instrumento,,1,
+emanuele-045-05,instrumento,,1,
+emanuele-045-07,agente,,1,"fala relatada: ""é, você tá certa"""
+emanuele-045-09,interlocutor,,1,"""a gente"" = eu e a IA"
+emanuele-051-00,agente,,1,pensamentos complementares
+emanuele-051-02,instrumento,,1,
+emanuele-051-04,agente,,1,fronteira entre o meu e o da IA
+emanuele-053-01,agente,,1,co-autoria
+emanuele-053-02,instrumento,,1,é meu porque fiz o prompt
+emanuele-053-03,negacao,,1,a IA não é uma pessoa
+emanuele-053-04,negacao,agente,1,máquina trabalhando pra gente
+emanuele-053-05,agente,,1,ironia: revolta das máquinas
+emanuele-059-00,negacao,agente,1,"não dou bom dia; ""talvez isso me mate"""
+emanuele-059-02,instrumento,,1,
+emanuele-061-00,agente,negacao,1,"""ele criou pra mim""; encena o ""bom dia chatinho"" que não faz"
+emanuele-061-02,neutro,,1,explica a encenação
+emanuele-067-00,neutro,,1,
+emanuele-067-01,neutro,,1,
+emanuele-067-03,instrumento,,1,
+emanuele-067-06,instrumento,,1,
+emanuele-071-00,neutro,,1,
+emanuele-075-00,agente,,1,conv: a IA me ajudou
+emanuele-075-02,instrumento,,1,
+emanuele-075-03,instrumento,,1,
+emanuele-077-00,interlocutor,agente,1,fui discutindo com ele
+emanuele-077-01,instrumento,,1,
+emanuele-079-01,instrumento,,1,
+emanuele-081-04,instrumento,,1,
+emanuele-081-05,instrumento,,1,
+emanuele-099-05,instrumento,,1,
+emanuele-099-06,agente,,1,fala relatada do Gemini
+emanuele-099-07,instrumento,,1,
+emanuele-103-01,agente,,1,ele tá cheio de vieses meus
+emanuele-103-04,agente,,1,a decisão nem sempre é da IA
+emanuele-105-00,instrumento,,1,
+emanuele-109-03,instrumento,,1,
+emanuele-111-02,neutro,,1,
+emanuele-113-02,instrumento,,1,
+emanuele-113-03,instrumento,,1,
+emanuele-115-04,instrumento,,1,
+emanuele-115-05,instrumento,,1,
+emanuele-119-01,instrumento,,1,
+emanuele-119-08,negacao,,0,"""velha guarda"": foi uma máquina"
+emanuele-135-04,instrumento,,0,fala do CEO
+emanuele-141-02,instrumento,,1,
+emanuele-141-04,instrumento,,1,
+emanuele-141-05,instrumento,,0,uso relatado pelo CEO
+emanuele-141-06,nao_ia,,1,pronome = CEO
+emanuele-141-07,instrumento,,1,
+emanuele-143-00,agente,,1,"conv: ""junto com a IA""; pessoa híbrida"
+emanuele-143-09,agente,instrumento,1,ironia: revolta das máquinas
+fernanda-003-01,instrumento,,1,
+fernanda-003-02,instrumento,,1,
+fernanda-003-03,nao_ia,,1,pronome = pessoa citada
+fernanda-003-11,neutro,,0,pergunta relatada sobre responsabilidade
+fernanda-003-13,negacao,,1,não posso repassar a responsabilidade pra IA
+fernanda-003-15,instrumento,,1,
+fernanda-003-17,instrumento,,1,
+fernanda-003-18,instrumento,,1,
+fernanda-003-19,nao_ia,,1,pronome = empresas fornecedoras
+fernanda-003-20,neutro,,1,
+fernanda-004-01,instrumento,,1,
+fernanda-004-02,instrumento,,1,
+fernanda-004-03,instrumento,,1,
+fernanda-004-04,instrumento,,1,
+fernanda-004-29,agente,,0,sócios acham que a IA faz tudo
+fernanda-004-30,interlocutor,,0,sócios: a IA faz o trabalho do estagiário
+fernanda-005-06,instrumento,,1,
+fernanda-005-07,neutro,,1,
+fernanda-005-08,instrumento,,1,
+fernanda-005-09,agente,,1,a IA cita legislação errada
+fernanda-005-10,instrumento,,1,
+fernanda-005-12,instrumento,,1,
+fernanda-005-14,agente,,1,complacência: vai te dar o que você quer
+fernanda-005-21,agente,,1,jurisprudência inventada pela IA
+fernanda-007-04,instrumento,,1,
+fernanda-011-09,instrumento,,1,
+fernanda-011-13,instrumento,,1,
+fernanda-011-17,instrumento,,1,
+fernanda-011-20,instrumento,,1,
+fernanda-011-21,instrumento,,1,
+fernanda-011-23,instrumento,,1,
+fernanda-011-29,instrumento,,1,
+fernanda-011-30,agente,,1,"fala hipotética, humor"
+fernanda-014-01,instrumento,,1,
+fernanda-024-04,instrumento,,1,
+fernanda-024-05,instrumento,,1,dependência
+fernanda-024-09,instrumento,,1,
+fernanda-024-11,agente,,1,"conv: ""ele manda uma versão, aí fala"""
+fernanda-024-12,interlocutor,,1,o Copilot me conhece
+fernanda-028-06,neutro,,1,
+fernanda-028-09,instrumento,,1,
+fernanda-032-04,instrumento,,1,
+fernanda-032-06,instrumento,,1,
+fernanda-032-12,instrumento,,1,"self estendido: ""meu eu externo, meu eu máquina"""
+fernanda-056-19,negacao,,1,uma máquina que precisa de direcionamento
+fernanda-056-21,interlocutor,,1,comparada a júnior e estagiário
+fernanda-056-22,interlocutor,agente,1,a IA faz melhor que a pessoa
+fernanda-058-05,instrumento,,1,
+fernanda-060-03,instrumento,,0,
+fernanda-060-05,agente,,1,conv: tem uma IA ajudando
+fernanda-060-08,instrumento,,0,
+fernanda-060-11,instrumento,,1,
+fernanda-062-00,instrumento,,1,
+fernanda-062-06,instrumento,,1,
+fernanda-062-07,instrumento,,0,
+fernanda-062-12,instrumento,,1,
+fernanda-064-00,nao_ia,,1,pronome = o escritório
+fernanda-064-01,instrumento,,1,
+fernanda-064-03,instrumento,,1,
+fernanda-064-04,agente,,1,conv: a IA ajudou
+fernanda-064-06,instrumento,,0,
+fernanda-064-07,instrumento,,1,
+fernanda-064-09,instrumento,,1,
+fernanda-066-13,instrumento,,1,
+fernanda-066-18,instrumento,,1,
+fernanda-066-20,instrumento,,1,
+fernanda-072-05,instrumento,,1,
+fernanda-074-01,instrumento,,1,
+fernanda-076-01,neutro,,1,
+fernanda-076-03,agente,,1,macro: substitui a parte executora
+fernanda-076-05,negacao,,1,não substitui a interação humana
+fernanda-078-04,instrumento,,1,
+fernanda-078-06,instrumento,,1,
+isabela-001-01,instrumento,,1,
+isabela-017-00,instrumento,,1,
+isabela-017-01,instrumento,,1,no lugar do Google
+isabela-017-05,instrumento,,1,
+isabela-017-09,instrumento,,1,
+isabela-017-15,instrumento,,1,
+isabela-017-16,instrumento,,1,
+isabela-017-17,instrumento,,1,
+isabela-017-19,instrumento,,1,
+isabela-017-22,instrumento,,1,
+isabela-018-00,instrumento,,1,
+isabela-018-09,instrumento,,1,arquitetura de agentes
+isabela-018-10,instrumento,,1,robô de atendimento
+isabela-018-11,instrumento,,1,arquitetura de agentes
+isabela-018-12,instrumento,,1,arquitetura de agentes
+isabela-018-13,instrumento,,1,arquitetura de agentes
+isabela-018-14,instrumento,,1,arquitetura de agentes
+isabela-018-15,instrumento,,1,arquitetura de agentes
+isabela-018-16,instrumento,,1,
+isabela-019-01,instrumento,,1,automação
+isabela-019-02,instrumento,,1,automação no lugar de uma pessoa
+isabela-021-01,agente,,1,IAs trabalhando a meu favor
+isabela-021-06,instrumento,,1,
+isabela-021-10,instrumento,,1,
+isabela-021-17,instrumento,,1,
+isabela-021-19,instrumento,,1,
+isabela-021-22,interlocutor,,1,no lugar de contratar uma pessoa
+isabela-022-00,instrumento,,1,
+isabela-024-00,interlocutor,,1,no lugar do jovem aprendiz
+isabela-024-01,instrumento,,1,
+isabela-024-02,agente,,1,ela assume verdades absolutas
+isabela-026-02,instrumento,,1,
+isabela-026-06,instrumento,,1,
+isabela-026-07,instrumento,,1,
+isabela-026-09,instrumento,,1,
+isabela-028-01,neutro,,1,
+isabela-028-02,neutro,,1,
+isabela-028-03,instrumento,,1,qual ferramenta usar
+isabela-028-04,neutro,,1,
+isabela-028-05,instrumento,,1,
+isabela-030-00,agente,,1,humor: IAs trabalhando pra mim
+isabela-030-03,agente,,1,agentes trabalhando pra mim
+isabela-030-04,interlocutor,,1,equipe de agentes em vez de pessoas
+isabela-030-08,agente,,1,agente trabalhando pra mim
+isabela-030-11,instrumento,,1,
+isabela-032-01,interlocutor,,1,não trabalho mais sozinha; híbrido
+isabela-032-02,agente,,1,conv: a IA sempre me ajuda
+isabela-032-05,interlocutor,,1,"conversando com a ""Cláudia"" (Claude? talvez erro de transcrição)"
+isabela-032-06,instrumento,,1,
+isabela-032-08,instrumento,,1,"""Cláudio"" (Claude)"
+isabela-036-03,neutro,,1,
+isabela-036-05,neutro,,1,
+isabela-036-11,instrumento,,1,
+isabela-040-02,instrumento,,1,
+isabela-040-07,instrumento,,1,
+isabela-040-10,agente,,1,conv: construí junto com a IA
+isabela-040-14,instrumento,,1,
+isabela-040-15,instrumento,,1,dependência
+isabela-042-01,instrumento,,1,
+isabela-042-03,instrumento,,1,
+isabela-042-14,instrumento,,1,pede grau de confiança
+isabela-042-20,instrumento,,1,
+isabela-042-21,neutro,,1,atribuição rejeitada
+isabela-042-22,agente,,1,conv: trabalhando junto com ela
+isabela-042-23,agente,interlocutor,1,a IA é pé no saco; discutindo
+isabela-042-24,interlocutor,,1,irritação com as IAs
+isabela-042-28,agente,,1,se for só a IA
+isabela-044-10,instrumento,,1,
+isabela-044-12,interlocutor,,1,conv: conversar com elas
+isabela-046-01,instrumento,,1,
+isabela-046-07,instrumento,,1,
+isabela-048-01,agente,,1,a IA sozinha não teria chegado
+isabela-048-02,interlocutor,,1,discuto muito
+isabela-048-03,agente,,1,autoria junto com a IA
+isabela-048-04,agente,,1,sem ela não teria chegado
+isabela-050-01,interlocutor,negacao,1,às vezes dá bom dia e agradece; tem evitado
+isabela-050-08,agente,,1,personalidades configuráveis do GPT
+isabela-052-14,interlocutor,,1,quando a IA começa a me irritar
+isabela-060-00,agente,,1,ela trouxe outro ponto de vista
+isabela-066-01,agente,,1,o GPT mudou porque eu o levei pra outro caminho
+isabela-066-02,agente,,1,personalidade amigável
+isabela-066-05,agente,,1,
+isabela-066-06,agente,,1,cheio de firula
+isabela-066-07,agente,,1,mais direto
+isabela-066-08,agente,,1,direto e franco
+isabela-066-09,agente,,1,
+isabela-066-10,agente,,1,se tornando mais amigável
+isabela-066-11,agente,,1,confabulando
+isabela-066-12,agente,,1,tá falando muito
+isabela-066-13,interlocutor,agente,1,"""ó, traga apenas o essencial""; ele dá uma viajada"
+isabela-066-14,instrumento,,1,
+isabela-066-15,agente,interlocutor,1,o GPT quer fazer amizade
+isabela-068-01,interlocutor,,1,confidente: o cachorro gosta de mim?
+isabela-070-02,instrumento,,1,dados com a empresa
+isabela-070-04,interlocutor,,1,falo tanta coisa com ele; ele sabe tudo
+isabela-070-05,agente,,1,a IA sabe isso de você
+isabela-070-06,instrumento,,1,armazenando dados
+isabela-074-02,instrumento,,1,
+isabela-074-03,instrumento,,1,
+isabela-074-07,instrumento,,1,
+isabela-074-08,instrumento,,1,
+isabela-074-09,instrumento,,1,
+isabela-074-10,instrumento,,1,
+isabela-076-00,instrumento,,1,
+isabela-076-01,instrumento,,1,
+isabela-076-08,instrumento,,1,
+isabela-076-10,instrumento,,1,
+isabela-076-11,neutro,,1,
+isabela-076-12,neutro,,1,
+isabela-080-01,instrumento,,0,
+isabela-080-06,instrumento,,1,
+isabela-086-07,instrumento,,1,
+isabela-086-08,instrumento,,1,
+isabela-086-09,neutro,,1,
+isabela-086-11,instrumento,,0,
+isabela-086-12,instrumento,,0,
+isabela-086-14,instrumento,,0,
+isabela-086-19,instrumento,,0,
+isabela-086-20,instrumento,,0,
+isabela-086-23,instrumento,,1,
+isabela-086-25,neutro,,1,
+isabela-086-26,neutro,,1,
+leticia-008-00,instrumento,,1,
+leticia-008-02,agente,,1,conv: ele me ajuda
+leticia-008-03,instrumento,,1,
+leticia-010-00,instrumento,,1,
+leticia-010-01,instrumento,,1,
+leticia-010-02,instrumento,,1,me adaptei melhor a ele
+leticia-010-03,instrumento,,1,
+leticia-010-04,instrumento,,1,
+leticia-010-05,instrumento,,1,
+leticia-010-06,instrumento,,1,
+leticia-020-01,instrumento,,1,
+leticia-020-02,agente,,1,a IA erra
+leticia-020-03,instrumento,,1,
+leticia-022-01,instrumento,,1,
+leticia-024-00,instrumento,,1,pronome = dependência
+leticia-024-02,instrumento,,1,
+leticia-032-05,instrumento,,1,
+leticia-032-06,instrumento,,1,
+leticia-036-01,neutro,,1,
+leticia-036-02,neutro,,1,
+leticia-036-04,neutro,,1,
+leticia-036-05,neutro,,1,
+leticia-036-06,instrumento,,1,
+leticia-036-08,instrumento,,1,
+leticia-040-01,nao_ia,,1,pronome = a pergunta
+leticia-044-00,negacao,,1,a IA tem que ser apresentada como ferramenta
+leticia-044-02,instrumento,,1,
+leticia-044-04,instrumento,,1,
+leticia-044-05,instrumento,,1,
+leticia-046-02,agente,,0,"crítica a quem trata como verdade: ""a IA disse"""
+leticia-046-04,instrumento,,1,
+leticia-050-01,negacao,,1,ela não vai se tornar responsável
+leticia-050-05,negacao,interlocutor,1,não toma responsabilidade; comparação com funcionário
+leticia-050-06,interlocutor,negacao,1,o funcionário erra mais que a IA mas assume
+leticia-050-07,negacao,,1,ela não tem autonomia
+leticia-050-08,negacao,,1,a autonomia que a gente dá
+leticia-054-01,interlocutor,agente,1,"digo que sou leiga; ""ele me pergunta"""
+leticia-054-08,agente,,1,não sou capaz sozinha sem ela
+leticia-058-04,neutro,,1,
+leticia-058-05,neutro,,1,
+leticia-066-05,negacao,,1,ferramenta totalmente matemática
+leticia-066-06,neutro,,1,frase interrompida
+leticia-066-07,agente,,1,especula que ela poderia chegar lá
+leticia-070-00,negacao,agente,1,"personalidade como simulacro ""do que ela entende que nós somos"""
+leticia-072-02,interlocutor,,1,afinado à minha maneira de conversar
+leticia-072-03,interlocutor,,1,adaptado a mim
+leticia-074-01,negacao,,1,conversa só profissional com ele
+leticia-082-01,instrumento,,1,
+leticia-086-00,instrumento,,1,
+leticia-086-01,instrumento,,1,
+leticia-086-04,interlocutor,,1,distribui tarefas entre pessoas e IA
+leticia-086-05,nao_ia,,1,pronome = colega
+leticia-086-06,interlocutor,,1,distribuir tarefas sendo IA ou não
+leticia-088-00,instrumento,,1,
+leticia-088-01,neutro,,1,
+leticia-090-01,instrumento,,1,
+leticia-092-02,instrumento,,1,
+leticia-094-04,instrumento,,1,
+leticia-094-06,instrumento,,1,
+leticia-098-01,instrumento,,1,
+leticia-098-04,instrumento,,1,
+leticia-098-06,instrumento,,1,
+leticia-100-05,instrumento,,1,
+lucas-006-03,instrumento,,1,
+lucas-008-01,instrumento,,1,
+lucas-010-00,instrumento,,1,
+lucas-010-01,agente,,1,a IA tá me usando
+lucas-010-03,instrumento,,1,
+lucas-012-03,instrumento,,1,
+lucas-012-04,instrumento,,1,
+lucas-012-05,instrumento,,1,avalia como produto
+lucas-012-07,instrumento,,1,
+lucas-012-08,instrumento,,1,
+lucas-014-00,instrumento,,1,
+lucas-014-01,instrumento,,1,
+lucas-018-00,agente,,1,"""tudo que a IA me fala""; manipulá-la"
+lucas-020-03,agente,,1,ela me dá ideias e faz pontes
+lucas-020-05,instrumento,,1,
+lucas-020-07,instrumento,,1,
+lucas-020-12,agente,,1,"fala relatada: ""Tem"""
+lucas-020-14,instrumento,,1,cobra fontes
+lucas-020-17,interlocutor,instrumento,1,parceiro pra conversar e trocar ideias
+lucas-024-00,instrumento,,1,
+lucas-024-01,neutro,,1,
+lucas-024-02,instrumento,,0,
+lucas-024-03,instrumento,,0,
+lucas-024-06,agente,,1,conv: em colaboração com a IA
+lucas-026-00,instrumento,,1,
+lucas-026-01,instrumento,,1,
+lucas-026-02,instrumento,,1,
+lucas-028-01,instrumento,,1,
+lucas-030-00,instrumento,,1,
+lucas-030-01,instrumento,,1,
+lucas-032-07,instrumento,,1,
+lucas-032-10,instrumento,,1,
+lucas-032-11,instrumento,,1,
+lucas-034-00,instrumento,,1,
+lucas-036-02,nao_ia,,1,máquina = o equipamento
+lucas-036-03,agente,,1,criatividade insuficiente
+lucas-036-04,agente,,1,não se desvencilha das inspirações
+lucas-038-00,instrumento,,1,
+lucas-038-01,instrumento,,1,
+lucas-042-00,neutro,,1,
+lucas-042-02,neutro,,1,
+lucas-042-03,instrumento,,1,
+lucas-042-09,agente,,0,pessoal acha que a IA sabe tudo
+lucas-044-00,neutro,,1,repete a pergunta
+lucas-044-08,instrumento,,1,
+lucas-044-09,agente,,1,onde começa o raciocínio da IA
+lucas-044-11,instrumento,,1,
+lucas-044-12,instrumento,,1,
+lucas-046-02,agente,,1,a IA seria a autora da ideia
+lucas-046-03,instrumento,,1,eu sou o autor
+lucas-050-00,instrumento,,1,
+lucas-050-10,instrumento,,1,confronta a alucinação
+lucas-050-12,agente,,1,"""ela para, raciocina um pouco… e diz: Ops!"""
+lucas-052-00,neutro,,1,repete alucinação do entrevistador
+lucas-052-02,instrumento,,1,
+lucas-052-04,agente,,1,a IA falava sim pra tudo
+lucas-052-15,instrumento,,1,confiança
+lucas-056-04,agente,,1,"fala relatada: ""a IA disse assim"""
+lucas-058-00,negacao,,1,vejo a IA como máquina; dou comandos
+lucas-060-00,agente,negacao,1,ironia: revolução das máquinas; por favor não adianta
+lucas-064-01,negacao,,1,personalidade não é emergente
+lucas-066-03,interlocutor,,1,converso com a IA no lugar das pessoas
+lucas-066-05,nao_ia,,1,pronome = a equipe
+lucas-066-07,interlocutor,,1,mais disponível do que qualquer ser humano
+lucas-068-01,instrumento,,1,
+lucas-068-02,nao_ia,,1,pronome = as pessoas
+lucas-068-09,instrumento,,1,
+lucas-068-17,agente,,1,"""quem criou foi uma IA"""
+lucas-068-20,neutro,,1,humano ou máquina (jogo)
+lucas-068-22,instrumento,,1,
+lucas-068-26,instrumento,,0,
+lucas-068-27,instrumento,,1,
+lucas-070-00,instrumento,,1,a gente tem uma ferramenta
+lucas-072-03,instrumento,,1,
+lucas-072-04,instrumento,,1,
+lucas-074-02,instrumento,,1,
+lucas-074-03,instrumento,,1,
+lucas-074-04,instrumento,,1,
+lucas-074-06,instrumento,,1,
+lucas-074-07,instrumento,,1,
+lucas-074-10,instrumento,,1,
+lucas-074-11,instrumento,,1,
+lucas-080-07,instrumento,,0,
+lucas-080-09,instrumento,,1,
+lucas-080-17,instrumento,,1,
+mafe-001-02,instrumento,,1,
+mafe-001-03,instrumento,,1,
+mafe-001-09,instrumento,,1,
+mafe-001-42,interlocutor,,1,"vocativo: ""Ai ChatGPT, por que…"""
+mafe-007-00,instrumento,,1,
+mafe-007-01,negacao,,1,sei como o algoritmo funciona
+mafe-007-03,agente,,1,o aprendizado e o conhecimento dele
+mafe-013-02,negacao,agente,1,"o perigo é a humanização; ""o ChatGPT está dizendo"""
+mafe-013-03,interlocutor,,1,"""ChatGPT, eu posso comer tal coisa?"""
+mafe-013-05,agente,,1,"fala relatada: ""Claro!"""
+mafe-013-13,neutro,,1,
+mafe-013-16,instrumento,,1,"confia ""enquanto tecnologia"""
+mafe-013-17,instrumento,,1,
+mafe-013-19,instrumento,,1,
+mafe-013-21,instrumento,,1,
+mafe-013-23,instrumento,,1,
+mafe-017-26,instrumento,,1,bot próprio
+mafe-017-39,instrumento,,1,
+mafe-020-04,interlocutor,,1,"vocativo: ""ChatGPT, qual a minha benção?"""
+mafe-020-34,interlocutor,,1,"""cara, e aí?"""
+mafe-020-37,interlocutor,,1,exercício da terapia com o ChatGPT
+mafe-020-42,instrumento,,1,
+mafe-020-43,negacao,interlocutor,1,imersão: chat com o marido / chat com ninguém
+mafe-020-44,negacao,,1,me forço a lembrar que converso com algoritmos
+mafe-022-01,negacao,,1,não coloco meus segredos
+mafe-024-03,agente,,1,conv: a IA do Google falou
+mafe-024-14,instrumento,,1,
+mafe-024-25,instrumento,,1,
+mafe-024-31,instrumento,,1,assistente × bengala
+mafe-025-00,agente,,0,"""olha o que ele fez"""
+mafe-025-07,instrumento,,1,
+mafe-027-00,instrumento,,1,
+mafe-027-04,instrumento,,0,
+mafe-027-07,instrumento,,1,
+mafe-027-08,instrumento,,1,
+mafe-029-13,neutro,,1,
+mafe-029-15,instrumento,,1,
+mafe-029-19,interlocutor,,1,"""Ixa, ChatGPT, isso é um feedback?"""
+mafe-031-12,agente,,1,conv: o Claude tá me ajudando
+mafe-031-13,instrumento,,1,
+mafe-031-16,agente,,1,o ChatGPT falando (voz reconhecível)
+mafe-031-19,instrumento,,1,
+mafe-031-22,instrumento,,1,
+mafe-031-26,instrumento,,1,
+mafe-032-01,instrumento,,1,
+mafe-032-03,instrumento,,1,
+mafe-032-04,agente,,1,fala relatada: as notas do Claude e do ChatGPT
+mafe-032-07,agente,,1,fala relatada do Claude
+mafe-032-10,instrumento,,1,
+mafe-032-11,agente,,1,cacoetes
+mafe-032-15,agente,,1,a IA politicamente correta
+mafe-032-16,instrumento,,1,camadas (projeto da empresa)
+mafe-032-21,agente,,1,"fala relatada: ""o Claude falou"""
+mafe-032-25,instrumento,,1,ferramenta de IA
+mafe-032-26,agente,,1,ele percebe e me alerta; desinteresse
+mafe-038-06,instrumento,,1,
+mafe-038-10,instrumento,,1,
+mafe-038-11,instrumento,,1,
+mafe-040-01,instrumento,,1,
+mafe-044-12,neutro,,1,
+mafe-044-13,nao_ia,,1,pronome = marido
+mafe-046-00,nao_ia,,1,pronome = marido
+mafe-046-01,nao_ia,,1,pronome = marido
+mafe-046-24,neutro,,1,
+mafe-050-03,instrumento,,0,
+mafe-050-09,neutro,,1,
+mafe-050-11,nao_ia,,1,pronome = amiga
+mafe-050-14,instrumento,,1,
+mafe-050-18,instrumento,,0,
+mafe-050-21,instrumento,,1,
+mafe-050-23,instrumento,,1,
+mafe-050-24,instrumento,,1,
+mafe-052-01,instrumento,,1,
+mafe-052-02,agente,,1,"fala relatada: ""o ChatGPT ficou"""
+mafe-052-03,agente,,1,"""me fala jogada a jogada"""
+mafe-054-00,agente,,1,macro: reduzir ou criar desigualdades
+mafe-058-05,instrumento,,1,
+rodrigo-009-02,nao_ia,,1,máquina de vendas
+rodrigo-009-04,nao_ia,,1,
+rodrigo-009-06,agente,,1,macro: escravo dos algoritmos da Meta
+rodrigo-009-07,nao_ia,,1,
+rodrigo-019-00,nao_ia,,1,
+rodrigo-019-03,instrumento,,1,
+rodrigo-020-03,instrumento,,1,
+rodrigo-020-05,instrumento,,1,
+rodrigo-020-07,instrumento,,1,
+rodrigo-020-11,instrumento,,1,
+rodrigo-020-14,instrumento,,1,de quebra-galho a ferramenta
+rodrigo-020-16,agente,,1,"problemas que a IA pautou; ""falou"""
+rodrigo-021-00,instrumento,,1,
+rodrigo-021-02,nao_ia,,1,
+rodrigo-021-04,instrumento,,1,
+rodrigo-023-01,instrumento,,1,
+rodrigo-023-03,instrumento,,1,
+rodrigo-023-12,instrumento,,1,
+rodrigo-023-13,instrumento,,1,
+rodrigo-023-14,instrumento,,1,
+rodrigo-023-15,instrumento,,0,fala da consultoria
+rodrigo-023-21,instrumento,,1,
+rodrigo-023-22,instrumento,,1,
+rodrigo-023-23,instrumento,,1,
+rodrigo-024-06,instrumento,,1,
+rodrigo-024-11,instrumento,,1,
+rodrigo-024-15,instrumento,,1,
+rodrigo-024-16,instrumento,,1,
+rodrigo-024-17,instrumento,,1,
+rodrigo-026-07,instrumento,,1,
+rodrigo-026-08,nao_ia,,1,
+rodrigo-026-09,instrumento,,1,
+rodrigo-026-12,instrumento,,1,
+rodrigo-026-14,agente,,1,macro: o bot substitui o atendimento humano
+rodrigo-028-02,instrumento,,1,
+rodrigo-028-06,instrumento,,1,
+rodrigo-028-07,instrumento,,1,
+rodrigo-028-09,instrumento,,1,
+rodrigo-028-11,instrumento,,1,
+rodrigo-028-14,instrumento,,1,
+rodrigo-028-15,neutro,,1,
+rodrigo-028-19,instrumento,,1,
+rodrigo-028-20,instrumento,,1,
+rodrigo-028-23,instrumento,,1,
+rodrigo-031-02,instrumento,,1,
+rodrigo-031-04,instrumento,,1,
+rodrigo-031-08,instrumento,,1,ensinar a IA (treino)
+rodrigo-031-09,instrumento,,1,
+rodrigo-040-03,agente,,0,"diretores: ""alucina"""
+rodrigo-040-05,instrumento,,1,
+rodrigo-040-07,nao_ia,,1,
+rodrigo-040-23,instrumento,,1,
+rodrigo-040-31,neutro,,0,
+rodrigo-041-05,instrumento,,1,
+rodrigo-041-13,neutro,,1,
+rodrigo-043-01,neutro,,1,
+rodrigo-047-07,instrumento,,1,
+rodrigo-047-08,instrumento,,1,
+rodrigo-047-10,instrumento,,1,
+rodrigo-047-11,instrumento,,1,
+rodrigo-047-12,instrumento,,1,
+rodrigo-047-13,nao_ia,,1,
+rodrigo-047-37,instrumento,,1,
+rodrigo-047-38,instrumento,,1,
+rodrigo-047-39,instrumento,,1,
+rodrigo-048-03,neutro,,1,
+rodrigo-048-04,neutro,,1,
+rodrigo-048-09,instrumento,,1,
+rodrigo-050-03,instrumento,,1,a IA ainda não assume processos
+rodrigo-050-07,instrumento,,1,
+rodrigo-050-08,instrumento,,1,
+rodrigo-050-09,instrumento,,1,
+rodrigo-050-11,instrumento,,1,
+rodrigo-050-17,instrumento,,1,
+rodrigo-050-20,instrumento,,1,
+rodrigo-052-01,instrumento,,1,
+rodrigo-052-03,agente,,1,as plataformas analisam e dão sugestões
+rodrigo-052-11,negacao,,1,a agência ainda tá comigo
+rodrigo-052-12,instrumento,negacao,1,a agência de procurar a IA é minha
+rodrigo-052-19,instrumento,,1,
+rodrigo-052-23,agente,,1,"futuro: ""a IA diga pra gente"""
+rodrigo-052-25,neutro,,1,
+rodrigo-053-00,instrumento,,1,
+rodrigo-055-03,instrumento,,1,
+rodrigo-055-18,agente,,1,a IA é co-autora
+rodrigo-055-19,agente,,1,vai ser autor mesmo
+rodrigo-055-21,agente,,1,autoria de IA
+rodrigo-055-24,agente,,1,a autoria é da IA
+rodrigo-059-12,negacao,,1,relacionamento prático; sem personalização
+rodrigo-059-13,negacao,,1,cachorrinhos de IA
+rodrigo-059-15,interlocutor,,1,futuro: IA humanizada no lugar do motorista
+rodrigo-059-19,interlocutor,,1,"futuro: ""Oi, tudo bem?"""
+rodrigo-063-02,instrumento,,1,
+rodrigo-063-08,instrumento,,1,
+rodrigo-063-09,instrumento,,1,
+rodrigo-063-18,instrumento,,1,
+rodrigo-065-01,instrumento,,1,
+rodrigo-065-12,instrumento,,1,
+rodrigo-065-13,agente,,1,"""a IA fala assim"""
+rodrigo-065-20,instrumento,,1,
+rodrigo-065-21,agente,,1,macro: marketing transformado pela IA
+rodrigo-068-00,instrumento,,1,
+rodrigo-068-01,instrumento,,1,
+rodrigo-068-03,instrumento,,1,
+rodrigo-068-04,instrumento,,1,
+rodrigo-068-05,nao_ia,,1,
+rodrigo-068-06,instrumento,,1,
+rodrigo-068-07,instrumento,,1,
+rodrigo-068-08,neutro,,1,
+rodrigo-071-00,instrumento,,1,
+rodrigo-071-01,instrumento,,1,
+rodrigo-071-09,instrumento,,1,
+rodrigo-071-11,instrumento,,1,
+rodrigo-071-14,instrumento,,1,
+rodrigo-071-15,instrumento,,1,
+rodrigo-071-17,instrumento,,1,
+rodrigo-071-19,instrumento,,1,

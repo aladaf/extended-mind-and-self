@@ -1,0 +1,32 @@
+﻿categoria,termo,semente,frases,participantes,frases_elicitadas
+pronomes_1a_pessoa,eu,0,1216,8,0
+pronomes_1a_pessoa,me/mim/comigo,0,273,8,0
+pronomes_1a_pessoa,meu/minha,0,277,8,0
+autodefinicao,sou,1,63,8,13
+autodefinicao,sempre fui,1,2,2,1
+autodefinicao,me considero,1,0,0,0
+autodefinicao,me vejo,1,2,2,1
+autodefinicao,me sinto,1,7,4,2
+autodefinicao,me acho,1,1,1,0
+autodefinicao,me identifico,1,0,0,0
+autodefinicao,me tornei,1,0,0,0
+autodefinicao,eu mesmo,1,2,2,0
+autodefinicao,como pessoa/profissional,1,4,3,1
+agencia_autoria,autoria,1,24,5,20
+agencia_autoria,é meu,1,15,5,12
+agencia_autoria,fui eu,1,4,3,3
+agencia_autoria,responsabilidade minha,1,4,1,0
+agencia_autoria,mérito,1,0,0,0
+self_estendido,cérebro externo,1,1,1,0
+self_estendido,minha cabeça/mente,1,8,3,2
+self_estendido,parte de mim,1,0,0,0
+self_estendido,no meu lugar,1,0,0,0
+self_estendido,acessório/braço direito,1,1,1,0
+vocabulario_self,identidade,1,1,1,0
+vocabulario_self,self,1,0,0,0
+vocabulario_self,essência,1,0,0,0
+vocabulario_self,autenticidade,1,0,0,0
+vocabulario_self,individualidade,1,0,0,0
+vocabulario_self,autoimagem,1,5,4,3
+self_atribuido_ia,personalidade,0,9,5,0
+self_atribuido_ia,autonomia,0,3,2,0

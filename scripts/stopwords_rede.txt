@@ -1,0 +1,19 @@
+# Lemas excluídos da rede semântica (um por linha; '#' inicia comentário).
+# A rede já usa só substantivos, nomes próprios, verbos e adjetivos; esta lista tira o que sobra
+# de função gramatical ou de apoio da fala oral. Edite e rode de novo scripts/rede_semantica.py.
+
+# verbos auxiliares, modais, de ligação e aspectuais
+ser estar tar ter haver ir vir poder dever ficar acabar conseguir começar continuar parecer
+
+# verbos leves e marcadores da fala ("acho que", "sei lá", "sabe?", "dá pra", "tô falando", "vamos ver")
+achar saber dar fazer falar dizer ver olhar
+
+# palavras de apoio da fala oral ("a gente", "cara", "tipo", "meio que", "pro", "cê", "olha", "bom,")
+gente cara tipo meio pro pra ah cê tá olha bom
+hum aham uhum hã ô pera
+
+# substantivos genéricos ("uma coisa", "às vezes", "de forma", "por exemplo", "em questão de", "faz sentido")
+coisa vez forma maneira parte exemplo questão sentido caso ponto mesmo
+
+# unidades de tempo ("há dois anos", "na hora de")
+ano mês semana hora
